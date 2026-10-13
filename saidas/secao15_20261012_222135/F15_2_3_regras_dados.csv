@@ -1,0 +1,9 @@
+﻿ETAPA;QTD_SECOES;QTD_CELULAS;QTD_REGRAS;QTD_APROVADAS;SECOES
+Requisitos e tabelas auxiliares;1;8;65;65;3
+Fontes e ingestão;1;7;48;48;4
+Padronização estrutural;1;10;57;57;5
+Point-in-time e temporalidade;1;8;46;46;6
+Delimitação do universo e da base;2;18;111;111;7, 8
+Transformação contábil e societária;3;27;189;189;9, 10, 11
+Cálculo de variáveis e indicadores;2;18;151;151;12, 13
+Auditoria e critérios de aceite;1;8;37;37;14

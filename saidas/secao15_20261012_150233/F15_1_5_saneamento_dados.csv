@@ -1,0 +1,13 @@
+﻿TRATAMENTO;CAMPO;QTD_LINHAS;REGRA;DESTINO
+NEGATIVO → NULO;RECEITA_LIQUIDA_TRIMESTRE (e LB da linha);102;Receita trimestral negativa;Anulado
+ZERO ISOLADO → NULO;RECEITA_LIQUIDA_TRIMESTRE;9;Zero isolado na receita líquida;Anulado
+INVÁLIDO → NULO;ATIVO_TOTAL (= 0 ou < AC);7;Ativo total zero ou menor que o circulante;Anulado
+ZERO ISOLADO → NULO;LUCRO_LIQUIDO_TOTAL_TRIMESTRE;4;Zero isolado no lucro líquido;Anulado
+NEGATIVO → NULO;CAIXA_EQUIVALENTES;3;Caixa negativo;Anulado
+ZERO ISOLADO → NULO;PATRIMONIO_LIQUIDO_TOTAL;1;Zero isolado no patrimônio líquido;Anulado
+ZERO ISOLADO → NULO;ATIVO_TOTAL;0;Zero isolado no ativo total;Anulado
+LLc 3.11.01 ZERADA → NULO;LUCRO_LIQUIDO_CONTROLADORES_TRIMESTRE;0;Lucro dos controladores zerado, com minoritários;Anulado
+LLc 3.11.01 ZERADA → LL;LUCRO_LIQUIDO_CONTROLADORES_TRIMESTRE;5;Lucro dos controladores zerado, sem minoritários;Substituído
+SINALIZADO (valor mantido);|PL| / AT abaixo do limite (PL quase zero);274;Patrimônio líquido quase zero;Sinalizado
+SINALIZADO (valor mantido);ATIVO_TOTAL de 4 trimestres antes;57;Ativo de 12 meses antes instável;Sinalizado
+SINALIZADO (valor mantido);ATIVO_TOTAL abaixo do limite (ativo atípico);38;Ativo total atípico;Sinalizado
