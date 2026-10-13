@@ -1,0 +1,257 @@
+﻿ANO_FISCAL;QTD_LINHAS;QTD_DISPONIVEL;CRITERIO;GRAO;PCT_DISPONIVEL
+2011;426;426;G1 Tamanho adequado;ativo × ano;100,0
+2012;410;410;G1 Tamanho adequado;ativo × ano;100,0
+2013;401;401;G1 Tamanho adequado;ativo × ano;100,0
+2014;393;393;G1 Tamanho adequado;ativo × ano;100,0
+2015;391;391;G1 Tamanho adequado;ativo × ano;100,0
+2016;387;386;G1 Tamanho adequado;ativo × ano;99,74160206718346
+2017;394;394;G1 Tamanho adequado;ativo × ano;100,0
+2018;381;381;G1 Tamanho adequado;ativo × ano;100,0
+2019;382;380;G1 Tamanho adequado;ativo × ano;99,47643979057591
+2020;396;396;G1 Tamanho adequado;ativo × ano;100,0
+2021;426;426;G1 Tamanho adequado;ativo × ano;100,0
+2022;414;412;G1 Tamanho adequado;ativo × ano;99,51690821256038
+2023;400;399;G1 Tamanho adequado;ativo × ano;99,75
+2024;395;395;G1 Tamanho adequado;ativo × ano;100,0
+2025;378;377;G1 Tamanho adequado;ativo × ano;99,73544973544973
+2026;7;7;G1 Tamanho adequado;ativo × ano;100,0
+2011;426;426;G2 Condição financeira;ativo × ano;100,0
+2012;410;410;G2 Condição financeira;ativo × ano;100,0
+2013;401;401;G2 Condição financeira;ativo × ano;100,0
+2014;393;393;G2 Condição financeira;ativo × ano;100,0
+2015;391;391;G2 Condição financeira;ativo × ano;100,0
+2016;387;387;G2 Condição financeira;ativo × ano;100,0
+2017;394;394;G2 Condição financeira;ativo × ano;100,0
+2018;381;381;G2 Condição financeira;ativo × ano;100,0
+2019;382;382;G2 Condição financeira;ativo × ano;100,0
+2020;396;396;G2 Condição financeira;ativo × ano;100,0
+2021;426;425;G2 Condição financeira;ativo × ano;99,76525821596245
+2022;414;412;G2 Condição financeira;ativo × ano;99,51690821256038
+2023;400;398;G2 Condição financeira;ativo × ano;99,5
+2024;395;394;G2 Condição financeira;ativo × ano;99,74683544303798
+2025;378;377;G2 Condição financeira;ativo × ano;99,73544973544973
+2026;7;7;G2 Condição financeira;ativo × ano;100,0
+2011;426;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2012;410;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2013;401;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2014;393;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2015;391;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2016;387;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2017;394;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2018;381;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2019;382;0;G3 Estabilidade de lucros;ativo × ano;0,0
+2020;396;346;G3 Estabilidade de lucros;ativo × ano;87,37373737373737
+2021;426;336;G3 Estabilidade de lucros;ativo × ano;78,87323943661971
+2022;414;323;G3 Estabilidade de lucros;ativo × ano;78,01932367149759
+2023;400;312;G3 Estabilidade de lucros;ativo × ano;78,0
+2024;395;307;G3 Estabilidade de lucros;ativo × ano;77,72151898734177
+2025;378;296;G3 Estabilidade de lucros;ativo × ano;78,3068783068783
+2026;7;5;G3 Estabilidade de lucros;ativo × ano;71,42857142857143
+2011;426;208;G4 Histórico de dividendos;ativo × ano;48,82629107981221
+2012;410;214;G4 Histórico de dividendos;ativo × ano;52,19512195121951
+2013;401;223;G4 Histórico de dividendos;ativo × ano;55,61097256857855
+2014;393;227;G4 Histórico de dividendos;ativo × ano;57,76081424936387
+2015;391;235;G4 Histórico de dividendos;ativo × ano;60,10230179028133
+2016;387;239;G4 Histórico de dividendos;ativo × ano;61,75710594315245
+2017;394;251;G4 Histórico de dividendos;ativo × ano;63,70558375634518
+2018;381;254;G4 Histórico de dividendos;ativo × ano;66,66666666666667
+2019;382;265;G4 Histórico de dividendos;ativo × ano;69,3717277486911
+2020;396;291;G4 Histórico de dividendos;ativo × ano;73,48484848484848
+2021;426;332;G4 Histórico de dividendos;ativo × ano;77,93427230046949
+2022;414;337;G4 Histórico de dividendos;ativo × ano;81,40096618357488
+2023;400;339;G4 Histórico de dividendos;ativo × ano;84,75
+2024;395;348;G4 Histórico de dividendos;ativo × ano;88,10126582278481
+2025;378;344;G4 Histórico de dividendos;ativo × ano;91,005291005291
+2026;7;5;G4 Histórico de dividendos;ativo × ano;71,42857142857143
+2011;426;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2012;410;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2013;401;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2014;393;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2015;391;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2016;387;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2017;394;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2018;381;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2019;382;0;G5 Crescimento dos lucros;ativo × ano;0,0
+2020;396;108;G5 Crescimento dos lucros;ativo × ano;27,272727272727273
+2021;426;117;G5 Crescimento dos lucros;ativo × ano;27,464788732394368
+2022;414;114;G5 Crescimento dos lucros;ativo × ano;27,536231884057973
+2023;400;109;G5 Crescimento dos lucros;ativo × ano;27,25
+2024;395;106;G5 Crescimento dos lucros;ativo × ano;26,835443037974684
+2025;378;109;G5 Crescimento dos lucros;ativo × ano;28,835978835978835
+2026;7;2;G5 Crescimento dos lucros;ativo × ano;28,571428571428573
+2011;426;0;G6 Preço/lucro moderado;ativo × ano;0,0
+2012;410;0;G6 Preço/lucro moderado;ativo × ano;0,0
+2013;401;195;G6 Preço/lucro moderado;ativo × ano;48,6284289276808
+2014;393;210;G6 Preço/lucro moderado;ativo × ano;53,43511450381679
+2015;391;211;G6 Preço/lucro moderado;ativo × ano;53,96419437340153
+2016;387;223;G6 Preço/lucro moderado;ativo × ano;57,622739018087856
+2017;394;229;G6 Preço/lucro moderado;ativo × ano;58,121827411167516
+2018;381;234;G6 Preço/lucro moderado;ativo × ano;61,41732283464567
+2019;382;222;G6 Preço/lucro moderado;ativo × ano;58,1151832460733
+2020;396;234;G6 Preço/lucro moderado;ativo × ano;59,09090909090909
+2021;426;226;G6 Preço/lucro moderado;ativo × ano;53,051643192488264
+2022;414;255;G6 Preço/lucro moderado;ativo × ano;61,594202898550726
+2023;400;292;G6 Preço/lucro moderado;ativo × ano;73,0
+2024;395;273;G6 Preço/lucro moderado;ativo × ano;69,11392405063292
+2025;378;239;G6 Preço/lucro moderado;ativo × ano;63,22751322751323
+2026;7;4;G6 Preço/lucro moderado;ativo × ano;57,142857142857146
+2011;426;310;G7 Preço/valor patrimonial moderado;ativo × ano;72,7699530516432
+2012;410;302;G7 Preço/valor patrimonial moderado;ativo × ano;73,65853658536585
+2013;401;300;G7 Preço/valor patrimonial moderado;ativo × ano;74,81296758104739
+2014;393;302;G7 Preço/valor patrimonial moderado;ativo × ano;76,84478371501272
+2015;391;290;G7 Preço/valor patrimonial moderado;ativo × ano;74,16879795396419
+2016;387;291;G7 Preço/valor patrimonial moderado;ativo × ano;75,1937984496124
+2017;394;308;G7 Preço/valor patrimonial moderado;ativo × ano;78,1725888324873
+2018;381;316;G7 Preço/valor patrimonial moderado;ativo × ano;82,93963254593176
+2019;382;296;G7 Preço/valor patrimonial moderado;ativo × ano;77,4869109947644
+2020;396;335;G7 Preço/valor patrimonial moderado;ativo × ano;84,5959595959596
+2021;426;343;G7 Preço/valor patrimonial moderado;ativo × ano;80,51643192488262
+2022;414;348;G7 Preço/valor patrimonial moderado;ativo × ano;84,05797101449275
+2023;400;352;G7 Preço/valor patrimonial moderado;ativo × ano;88,0
+2024;395;335;G7 Preço/valor patrimonial moderado;ativo × ano;84,81012658227849
+2025;378;301;G7 Preço/valor patrimonial moderado;ativo × ano;79,62962962962963
+2026;7;5;G7 Preço/valor patrimonial moderado;ativo × ano;71,42857142857143
+2011;309;304;P1 ROA;empresa × ano;98,38187702265373
+2012;302;301;P1 ROA;empresa × ano;99,66887417218543
+2013;299;299;P1 ROA;empresa × ano;100,0
+2014;291;288;P1 ROA;empresa × ano;98,96907216494846
+2015;283;283;P1 ROA;empresa × ano;100,0
+2016;286;285;P1 ROA;empresa × ano;99,65034965034965
+2017;286;285;P1 ROA;empresa × ano;99,65034965034965
+2018;283;282;P1 ROA;empresa × ano;99,64664310954063
+2019;282;281;P1 ROA;empresa × ano;99,64539007092199
+2020;315;315;P1 ROA;empresa × ano;100,0
+2021;334;332;P1 ROA;empresa × ano;99,40119760479043
+2022;333;332;P1 ROA;empresa × ano;99,69969969969969
+2023;327;326;P1 ROA;empresa × ano;99,69418960244649
+2024;328;327;P1 ROA;empresa × ano;99,6951219512195
+2025;315;312;P1 ROA;empresa × ano;99,04761904761905
+2026;6;6;P1 ROA;empresa × ano;100,0
+2011;309;304;P2 Caixa operacional;empresa × ano;98,38187702265373
+2012;302;301;P2 Caixa operacional;empresa × ano;99,66887417218543
+2013;299;299;P2 Caixa operacional;empresa × ano;100,0
+2014;291;288;P2 Caixa operacional;empresa × ano;98,96907216494846
+2015;283;283;P2 Caixa operacional;empresa × ano;100,0
+2016;286;285;P2 Caixa operacional;empresa × ano;99,65034965034965
+2017;286;285;P2 Caixa operacional;empresa × ano;99,65034965034965
+2018;283;282;P2 Caixa operacional;empresa × ano;99,64664310954063
+2019;282;281;P2 Caixa operacional;empresa × ano;99,64539007092199
+2020;315;315;P2 Caixa operacional;empresa × ano;100,0
+2021;334;332;P2 Caixa operacional;empresa × ano;99,40119760479043
+2022;333;332;P2 Caixa operacional;empresa × ano;99,69969969969969
+2023;327;326;P2 Caixa operacional;empresa × ano;99,69418960244649
+2024;328;327;P2 Caixa operacional;empresa × ano;99,6951219512195
+2025;315;312;P2 Caixa operacional;empresa × ano;99,04761904761905
+2026;6;6;P2 Caixa operacional;empresa × ano;100,0
+2011;309;0;P3 Variação do ROA;empresa × ano;0,0
+2012;302;291;P3 Variação do ROA;empresa × ano;96,35761589403974
+2013;299;295;P3 Variação do ROA;empresa × ano;98,66220735785953
+2014;291;285;P3 Variação do ROA;empresa × ano;97,9381443298969
+2015;283;280;P3 Variação do ROA;empresa × ano;98,93992932862191
+2016;286;278;P3 Variação do ROA;empresa × ano;97,2027972027972
+2017;286;280;P3 Variação do ROA;empresa × ano;97,9020979020979
+2018;283;280;P3 Variação do ROA;empresa × ano;98,93992932862191
+2019;282;272;P3 Variação do ROA;empresa × ano;96,45390070921985
+2020;315;277;P3 Variação do ROA;empresa × ano;87,93650793650794
+2021;334;305;P3 Variação do ROA;empresa × ano;91,31736526946108
+2022;333;329;P3 Variação do ROA;empresa × ano;98,7987987987988
+2023;327;324;P3 Variação do ROA;empresa × ano;99,08256880733946
+2024;328;321;P3 Variação do ROA;empresa × ano;97,86585365853658
+2025;315;312;P3 Variação do ROA;empresa × ano;99,04761904761905
+2026;6;6;P3 Variação do ROA;empresa × ano;100,0
+2011;309;304;P4 Accruals;empresa × ano;98,38187702265373
+2012;302;301;P4 Accruals;empresa × ano;99,66887417218543
+2013;299;299;P4 Accruals;empresa × ano;100,0
+2014;291;288;P4 Accruals;empresa × ano;98,96907216494846
+2015;283;283;P4 Accruals;empresa × ano;100,0
+2016;286;285;P4 Accruals;empresa × ano;99,65034965034965
+2017;286;285;P4 Accruals;empresa × ano;99,65034965034965
+2018;283;282;P4 Accruals;empresa × ano;99,64664310954063
+2019;282;281;P4 Accruals;empresa × ano;99,64539007092199
+2020;315;315;P4 Accruals;empresa × ano;100,0
+2021;334;332;P4 Accruals;empresa × ano;99,40119760479043
+2022;333;332;P4 Accruals;empresa × ano;99,69969969969969
+2023;327;326;P4 Accruals;empresa × ano;99,69418960244649
+2024;328;327;P4 Accruals;empresa × ano;99,6951219512195
+2025;315;312;P4 Accruals;empresa × ano;99,04761904761905
+2026;6;6;P4 Accruals;empresa × ano;100,0
+2011;309;0;P5 Variação da alavancagem;empresa × ano;0,0
+2012;302;295;P5 Variação da alavancagem;empresa × ano;97,68211920529801
+2013;299;295;P5 Variação da alavancagem;empresa × ano;98,66220735785953
+2014;291;285;P5 Variação da alavancagem;empresa × ano;97,9381443298969
+2015;283;280;P5 Variação da alavancagem;empresa × ano;98,93992932862191
+2016;286;278;P5 Variação da alavancagem;empresa × ano;97,2027972027972
+2017;286;281;P5 Variação da alavancagem;empresa × ano;98,25174825174825
+2018;283;280;P5 Variação da alavancagem;empresa × ano;98,93992932862191
+2019;282;272;P5 Variação da alavancagem;empresa × ano;96,45390070921985
+2020;315;277;P5 Variação da alavancagem;empresa × ano;87,93650793650794
+2021;334;304;P5 Variação da alavancagem;empresa × ano;91,01796407185628
+2022;333;329;P5 Variação da alavancagem;empresa × ano;98,7987987987988
+2023;327;324;P5 Variação da alavancagem;empresa × ano;99,08256880733946
+2024;328;320;P5 Variação da alavancagem;empresa × ano;97,5609756097561
+2025;315;311;P5 Variação da alavancagem;empresa × ano;98,73015873015873
+2026;6;6;P5 Variação da alavancagem;empresa × ano;100,0
+2011;309;0;P6 Variação da liquidez;empresa × ano;0,0
+2012;302;295;P6 Variação da liquidez;empresa × ano;97,68211920529801
+2013;299;295;P6 Variação da liquidez;empresa × ano;98,66220735785953
+2014;291;285;P6 Variação da liquidez;empresa × ano;97,9381443298969
+2015;283;280;P6 Variação da liquidez;empresa × ano;98,93992932862191
+2016;286;278;P6 Variação da liquidez;empresa × ano;97,2027972027972
+2017;286;281;P6 Variação da liquidez;empresa × ano;98,25174825174825
+2018;283;281;P6 Variação da liquidez;empresa × ano;99,29328621908127
+2019;282;273;P6 Variação da liquidez;empresa × ano;96,80851063829788
+2020;315;278;P6 Variação da liquidez;empresa × ano;88,25396825396825
+2021;334;304;P6 Variação da liquidez;empresa × ano;91,01796407185628
+2022;333;329;P6 Variação da liquidez;empresa × ano;98,7987987987988
+2023;327;324;P6 Variação da liquidez;empresa × ano;99,08256880733946
+2024;328;320;P6 Variação da liquidez;empresa × ano;97,5609756097561
+2025;315;311;P6 Variação da liquidez;empresa × ano;98,73015873015873
+2026;6;6;P6 Variação da liquidez;empresa × ano;100,0
+2011;309;309;P7 Emissão de ações;empresa × ano;100,0
+2012;302;302;P7 Emissão de ações;empresa × ano;100,0
+2013;299;299;P7 Emissão de ações;empresa × ano;100,0
+2014;291;291;P7 Emissão de ações;empresa × ano;100,0
+2015;283;283;P7 Emissão de ações;empresa × ano;100,0
+2016;286;286;P7 Emissão de ações;empresa × ano;100,0
+2017;286;286;P7 Emissão de ações;empresa × ano;100,0
+2018;283;283;P7 Emissão de ações;empresa × ano;100,0
+2019;282;282;P7 Emissão de ações;empresa × ano;100,0
+2020;315;315;P7 Emissão de ações;empresa × ano;100,0
+2021;334;334;P7 Emissão de ações;empresa × ano;100,0
+2022;333;333;P7 Emissão de ações;empresa × ano;100,0
+2023;327;327;P7 Emissão de ações;empresa × ano;100,0
+2024;328;328;P7 Emissão de ações;empresa × ano;100,0
+2025;315;315;P7 Emissão de ações;empresa × ano;100,0
+2026;6;6;P7 Emissão de ações;empresa × ano;100,0
+2011;309;0;P8 Variação da margem bruta;empresa × ano;0,0
+2012;302;282;P8 Variação da margem bruta;empresa × ano;93,37748344370861
+2013;299;281;P8 Variação da margem bruta;empresa × ano;93,9799331103679
+2014;291;274;P8 Variação da margem bruta;empresa × ano;94,15807560137458
+2015;283;272;P8 Variação da margem bruta;empresa × ano;96,113074204947
+2016;286;267;P8 Variação da margem bruta;empresa × ano;93,35664335664336
+2017;286;270;P8 Variação da margem bruta;empresa × ano;94,4055944055944
+2018;283;274;P8 Variação da margem bruta;empresa × ano;96,81978798586573
+2019;282;263;P8 Variação da margem bruta;empresa × ano;93,26241134751773
+2020;315;270;P8 Variação da margem bruta;empresa × ano;85,71428571428571
+2021;334;301;P8 Variação da margem bruta;empresa × ano;90,11976047904191
+2022;333;326;P8 Variação da margem bruta;empresa × ano;97,89789789789789
+2023;327;320;P8 Variação da margem bruta;empresa × ano;97,85932721712538
+2024;328;318;P8 Variação da margem bruta;empresa × ano;96,95121951219512
+2025;315;308;P8 Variação da margem bruta;empresa × ano;97,77777777777777
+2026;6;6;P8 Variação da margem bruta;empresa × ano;100,0
+2011;309;0;P9 Variação do giro do ativo;empresa × ano;0,0
+2012;302;291;P9 Variação do giro do ativo;empresa × ano;96,35761589403974
+2013;299;295;P9 Variação do giro do ativo;empresa × ano;98,66220735785953
+2014;291;285;P9 Variação do giro do ativo;empresa × ano;97,9381443298969
+2015;283;280;P9 Variação do giro do ativo;empresa × ano;98,93992932862191
+2016;286;277;P9 Variação do giro do ativo;empresa × ano;96,85314685314685
+2017;286;279;P9 Variação do giro do ativo;empresa × ano;97,55244755244755
+2018;283;280;P9 Variação do giro do ativo;empresa × ano;98,93992932862191
+2019;282;270;P9 Variação do giro do ativo;empresa × ano;95,74468085106383
+2020;315;275;P9 Variação do giro do ativo;empresa × ano;87,3015873015873
+2021;334;305;P9 Variação do giro do ativo;empresa × ano;91,31736526946108
+2022;333;328;P9 Variação do giro do ativo;empresa × ano;98,49849849849849
+2023;327;323;P9 Variação do giro do ativo;empresa × ano;98,77675840978593
+2024;328;321;P9 Variação do giro do ativo;empresa × ano;97,86585365853658
+2025;315;311;P9 Variação do giro do ativo;empresa × ano;98,73015873015873
+2026;6;6;P9 Variação do giro do ativo;empresa × ano;100,0

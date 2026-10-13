@@ -1,0 +1,15 @@
+﻿Variável;Momento;Preenchidos;Nulos;Zeros;Negativos;Moda (R$ mil);Frequência da moda
+Ativo total;Antes;18851;0;4;0;773;58
+Ativo total;Depois;18844;7;0;0;773;58
+Patrimônio líquido;Antes;18834;17;6;2519;-160.477;9
+Patrimônio líquido;Depois;18833;18;5;2519;-160.477;9
+Caixa e equivalentes;Antes;18851;0;209;3;0;209
+Caixa e equivalentes;Depois;18848;3;209;0;0;209
+Receita líquida;Antes;18808;43;471;100;0;471
+Receita líquida;Depois;18699;152;462;0;0;462
+Lucro bruto;Antes;18808;43;444;1081;0;444
+Lucro bruto;Depois;18708;143;444;998;0;444
+Lucro líquido;Antes;18808;43;11;6369;0;11
+Lucro líquido;Depois;18804;47;7;6369;0;7
+Lucro dos controladores;Antes;18661;190;11;6352;0;11
+Lucro dos controladores;Depois;18659;192;9;6352;0;9

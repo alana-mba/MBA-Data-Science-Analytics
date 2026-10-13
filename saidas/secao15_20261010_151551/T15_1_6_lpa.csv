@@ -1,0 +1,15 @@
+﻿Situação;Destino do valor;LPA (DFP);LPA (ITR);Total
+Sem lucro ou quantidade para conferir;Mantido;6322;18623;24945
+Confere com o calculado;Mantido;4342;13011;17353
+Repetido na fonte: valor que confere;Mantido;48;76;124
+Zero com lucro por ação abaixo de meio centavo;Mantido;8;84;92
+Fora da faixa, abaixo de 10 vezes;Mantido com sinalização;316;998;1314
+Exceção documentada (sinalizada);Mantido com sinalização;45;138;183
+Escala divergente por vários anos;Mantido com sinalização;35;133;168
+Sinal corrigido;Corrigido;78;254;332
+Escala corrigida (centavos ou milhares);Corrigido;25;53;78
+Zero com lucro relevante;Anulado;633;1949;2582
+10 vezes ou mais, sem padrão de escala;Anulado;109;277;386
+Repetido na fonte: nenhum valor confere;Anulado;108;245;353
+Sinal oposto ao lucro, sem explicação;Anulado;52;200;252
+Exceção documentada (anulada);Anulado;0;1;1

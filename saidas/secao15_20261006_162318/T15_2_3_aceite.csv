@@ -1,0 +1,6 @@
+﻿Critério de aceite;Célula de verificação;Regras da célula;Resultado
+Ausência de informação com data de entrega posterior à data considerada;15.1.3;8;Atendido
+Unicidade das chaves de cada tabela;14.1.1;8;Atendido
+Integridade referencial entre fatos e dimensões;15.2.1;3;Atendido
+Reconciliação entre valores trimestrais e anuais dentro da tolerância;14.1.2;5;Atendido
+Registro do motivo de todo valor ausente;14.3;3;Atendido

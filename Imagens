@@ -1,0 +1,484 @@
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle, FancyBboxPatch
+from textwrap import fill
+
+# -----------------------------------------------------------------------------
+# Configuração do conteúdo
+# -----------------------------------------------------------------------------
+titulo_topo = "Levantamento de requisitos e documentação do briefing"
+subtitulo_topo = (
+    "Critérios analíticos (ex.: Graham e Piotroski) | atributos cadastrais | "
+    "granularidade | fontes | restrições | escopo"
+)
+
+pilares = ["Relevância", "Temporalidade", "Autoridade", "Auditabilidade"]
+
+linhas = [
+    {
+        "etapa": "Definição analítica e documentação do briefing de dados",
+        "definicao": (
+            "Formaliza objetivo analítico, entidade principal, granularidade, "
+            "escopo, restrições e critérios de avaliação."
+        ),
+        "exemplo": (
+            "Ex.: definir se o produto será uma base para screening, valuation "
+            "ou monitoramento; explicitar entidade, instrumento e periodicidade."
+        ),
+    },
+    {
+        "etapa": "Contrato de dados e fontes",
+        "definicao": (
+            "Define o papel de cada fonte, a autoridade de cada campo e a "
+            "hierarquia oficial de uso, fallback e bloqueio."
+        ),
+        "exemplo": (
+            "Ex.: combinar registros cadastrais, demonstrações financeiras, "
+            "mercado, eventos societários e fonte complementar para proventos."
+        ),
+    },
+    {
+        "etapa": "Normalização estrutural",
+        "definicao": (
+            "Padroniza identificadores, datas, textos, códigos, classes, aliases "
+            "históricos e consistência estrutural entre bases."
+        ),
+        "exemplo": (
+            "Ex.: CNPJ / código interno, datas de divulgação, textos de conta, "
+            "tickers antigos e classes de instrumento."
+        ),
+    },
+    {
+        "etapa": "Delimitação metodológica",
+        "definicao": (
+            "Congela universo elegível, vigência, granularidade, regra de "
+            "entidade e escolha de base única quando houver versões concorrentes."
+        ),
+        "exemplo": (
+            "Ex.: separar organização de instrumento, anual de trimestral e "
+            "consolidado de individual."
+        ),
+    },
+    {
+        "etapa": "Point-in-time e temporalidade",
+        "definicao": (
+            "Garante que cada observação use apenas informação pública conhecida "
+            "até a data de corte da análise."
+        ),
+        "exemplo": (
+            "Ex.: distinguir data econômica, data de divulgação e data de corte; "
+            "selecionar a versão pública válida."
+        ),
+    },
+    {
+        "etapa": "Transformação contábil e societária",
+        "definicao": (
+            "Aplica regras semânticas de cálculo, reconciliação e tratamento de "
+            "eventos, sem misturar conceitos econômicos diferentes."
+        ),
+        "exemplo": (
+            "Ex.: isolar fluxos trimestrais, tratar passivo exigível, classes de "
+            "ação, eventos e instrumentos compostos."
+        ),
+    },
+    {
+        "etapa": "Cálculo de variáveis e indicadores",
+        "definicao": (
+            "Deriva métricas analíticas, múltiplos, sinais, flags e atributos "
+            "finais respeitando entidade, periodicidade e semântica."
+        ),
+        "exemplo": (
+            "Ex.: liquidez, margem, endividamento, valor relativo, qualidade "
+            "financeira e alertas operacionais."
+        ),
+    },
+    {
+        "etapa": "Auditoria, aceite e publicação",
+        "definicao": (
+            "Valida unicidade, integridade referencial, cobertura, reconciliação, "
+            "nulidade, bloqueios e critérios finais de aceite."
+        ),
+        "exemplo": (
+            "Ex.: checklist de publicação, manifesto técnico, registro de perdas "
+            "controladas e trilha de auditoria."
+        ),
+    },
+]
+
+saidas = [
+    {
+        "titulo": "Camada de entidades",
+        "texto": (
+            "Estruturas estáveis de cadastro, vigência, tipologia e atributos "
+            "de organização e instrumento."
+        ),
+    },
+    {
+        "titulo": "Camada de fatos",
+        "texto": (
+            "Observações por entidade, instrumento e periodicidade, sem misturar "
+            "granularidades ou semânticas."
+        ),
+    },
+    {
+        "titulo": "Camada publicável e auditável",
+        "texto": (
+            "Métricas, flags, cobertura, documentação técnica e artefatos finais "
+            "para consumo analítico."
+        ),
+    },
+]
+
+rodape = (
+    "Exemplo aplicado: uma base analítica regulatória/financeira pode materializar "
+    "dimensões e fatos anuais/trimestrais, mas o framework permanece reutilizável "
+    "para outros domínios analíticos."
+)
+
+# -----------------------------------------------------------------------------
+# Configuração visual
+# -----------------------------------------------------------------------------
+cores = {
+    "bg": "#0c0f14",
+    "topo": "#2f7eb7",
+    "topo_faixa": "#e9e9e9",
+    "header": "#46b8d1",
+    "etapa": "#3a88c4",
+    "box": "#e9e9e9",
+    "box_borda": "#ffffff",
+    "texto_claro": "#ffffff",
+    "texto_escuro": "#111111",
+    "pill": "#56a9dc",
+    "saida": "#dfe9f3",
+}
+
+
+# -----------------------------------------------------------------------------
+# Helpers
+# -----------------------------------------------------------------------------
+def caixa(ax, x, y, w, h, facecolor, edgecolor="white", lw=1.4, rounded=False):
+    if rounded:
+        patch = FancyBboxPatch(
+            (x, y),
+            w,
+            h,
+            boxstyle="round,pad=0.004,rounding_size=0.012",
+            linewidth=lw,
+            edgecolor=edgecolor,
+            facecolor=facecolor,
+        )
+    else:
+        patch = Rectangle(
+            (x, y),
+            w,
+            h,
+            linewidth=lw,
+            edgecolor=edgecolor,
+            facecolor=facecolor,
+        )
+    ax.add_patch(patch)
+
+
+def texto_central(ax, x, y, w, h, texto, size=12, color="black", weight="normal"):
+    ax.text(
+        x + w / 2,
+        y + h / 2,
+        texto,
+        ha="center",
+        va="center",
+        fontsize=size,
+        color=color,
+        fontweight=weight,
+        family="DejaVu Sans",
+    )
+
+
+def texto_bloco(
+    ax,
+    x,
+    y,
+    w,
+    h,
+    texto,
+    wrap_chars,
+    size=12,
+    color="black",
+    weight="normal",
+    pad_x=0.012,
+):
+    ax.text(
+        x + pad_x,
+        y + h / 2,
+        fill(texto, wrap_chars),
+        ha="left",
+        va="center",
+        fontsize=size,
+        color=color,
+        fontweight=weight,
+        family="DejaVu Sans",
+    )
+
+
+# -----------------------------------------------------------------------------
+# Figura
+# -----------------------------------------------------------------------------
+fig, ax = plt.subplots(figsize=(16, 12), dpi=180)
+fig.patch.set_facecolor(cores["bg"])
+ax.set_facecolor(cores["bg"])
+ax.set_xlim(0, 1)
+ax.set_ylim(0, 1)
+ax.axis("off")
+
+# -----------------------------------------------------------------------------
+# Topo
+# -----------------------------------------------------------------------------
+caixa(
+    ax,
+    0.02,
+    0.90,
+    0.96,
+    0.09,
+    cores["topo"],
+    edgecolor=cores["topo"],
+    lw=0,
+    rounded=False,
+)
+texto_central(
+    ax, 0.02, 0.947, 0.96, 0.03, titulo_topo, size=15, color=cores["texto_claro"]
+)
+
+caixa(
+    ax,
+    0.05,
+    0.918,
+    0.90,
+    0.028,
+    cores["topo_faixa"],
+    edgecolor=cores["topo_faixa"],
+    lw=0,
+)
+texto_central(
+    ax, 0.05, 0.918, 0.90, 0.028, subtitulo_topo, size=11.5, color=cores["texto_escuro"]
+)
+
+# -----------------------------------------------------------------------------
+# Pilares RTAA
+# -----------------------------------------------------------------------------
+pill_y = 0.855
+pill_h = 0.028
+pill_gap = 0.012
+pill_x = 0.05
+pill_w = (0.90 - 3 * pill_gap) / 4
+
+for i, pilar in enumerate(pilares):
+    x = pill_x + i * (pill_w + pill_gap)
+    caixa(
+        ax,
+        x,
+        pill_y,
+        pill_w,
+        pill_h,
+        cores["pill"],
+        edgecolor="white",
+        lw=1.0,
+        rounded=True,
+    )
+    texto_central(
+        ax,
+        x,
+        pill_y,
+        pill_w,
+        pill_h,
+        pilar,
+        size=11,
+        color=cores["texto_claro"],
+        weight="bold",
+    )
+
+# -----------------------------------------------------------------------------
+# Cabeçalho da tabela
+# -----------------------------------------------------------------------------
+header_y = 0.79
+header_h = 0.05
+gap = 0.012
+
+x1, w1 = 0.03, 0.24
+x2, w2 = x1 + w1 + gap, 0.36
+x3, w3 = x2 + w2 + gap, 0.31
+
+caixa(ax, x1, header_y, w1, header_h, cores["header"], lw=1.5)
+caixa(ax, x2, header_y, w2, header_h, cores["header"], lw=1.5)
+caixa(ax, x3, header_y, w3, header_h, cores["header"], lw=1.5)
+
+texto_bloco(
+    ax,
+    x1,
+    header_y,
+    w1,
+    header_h,
+    "Etapa",
+    wrap_chars=20,
+    size=13,
+    color=cores["texto_escuro"],
+    weight="bold",
+)
+texto_bloco(
+    ax,
+    x2,
+    header_y,
+    w2,
+    header_h,
+    "Definição",
+    wrap_chars=20,
+    size=13,
+    color=cores["texto_escuro"],
+    weight="bold",
+)
+texto_bloco(
+    ax,
+    x3,
+    header_y,
+    w3,
+    header_h,
+    "Exemplo aplicado",
+    wrap_chars=24,
+    size=13,
+    color=cores["texto_escuro"],
+    weight="bold",
+)
+
+# -----------------------------------------------------------------------------
+# Linhas da tabela
+# -----------------------------------------------------------------------------
+row_h = 0.064
+row_gap = 0.014
+inicio_y = 0.70
+
+for i, linha in enumerate(linhas):
+    y = inicio_y - i * (row_h + row_gap)
+
+    caixa(ax, x1, y, w1, row_h, cores["etapa"], lw=1.2)
+    caixa(ax, x2, y, w2, row_h, cores["box"], lw=1.2)
+    caixa(ax, x3, y, w3, row_h, cores["box"], lw=1.2)
+
+    texto_bloco(
+        ax,
+        x1,
+        y,
+        w1,
+        row_h,
+        linha["etapa"],
+        wrap_chars=19,
+        size=10.8,
+        color=cores["texto_claro"],
+        weight="bold",
+    )
+    texto_bloco(
+        ax,
+        x2,
+        y,
+        w2,
+        row_h,
+        linha["definicao"],
+        wrap_chars=40,
+        size=10.4,
+        color=cores["texto_escuro"],
+    )
+    texto_bloco(
+        ax,
+        x3,
+        y,
+        w3,
+        row_h,
+        linha["exemplo"],
+        wrap_chars=28,
+        size=10.4,
+        color=cores["texto_escuro"],
+    )
+
+# -----------------------------------------------------------------------------
+# Bloco final de saídas
+# -----------------------------------------------------------------------------
+base_y = 0.04
+base_h = 0.12
+
+caixa(ax, 0.03, base_y, 0.93, base_h, "#10161f", edgecolor="white", lw=1.0)
+
+texto_central(
+    ax,
+    0.03,
+    base_y + 0.086,
+    0.93,
+    0.022,
+    "Saídas estruturadas do processo",
+    size=13,
+    color=cores["texto_claro"],
+    weight="bold",
+)
+
+inner_gap = 0.015
+inner_x = 0.05
+inner_y = base_y + 0.022
+inner_h = 0.055
+inner_w = (0.89 - 2 * inner_gap) / 3
+
+for i, saida in enumerate(saidas):
+    x = inner_x + i * (inner_w + inner_gap)
+    caixa(
+        ax,
+        x,
+        inner_y,
+        inner_w,
+        inner_h,
+        cores["saida"],
+        edgecolor="white",
+        lw=1.0,
+        rounded=False,
+    )
+    ax.text(
+        x + 0.01,
+        inner_y + inner_h * 0.67,
+        saida["titulo"],
+        ha="left",
+        va="center",
+        fontsize=10.4,
+        color=cores["texto_escuro"],
+        fontweight="bold",
+        family="DejaVu Sans",
+    )
+    ax.text(
+        x + 0.01,
+        inner_y + inner_h * 0.28,
+        fill(saida["texto"], 40),
+        ha="left",
+        va="center",
+        fontsize=8.8,
+        color=cores["texto_escuro"],
+        family="DejaVu Sans",
+    )
+
+ax.text(
+    0.5,
+    0.012,
+    fill(rodape, 120),
+    ha="center",
+    va="center",
+    fontsize=8.8,
+    color="#d6dbe3",
+    family="DejaVu Sans",
+)
+
+# -----------------------------------------------------------------------------
+# Exportação
+# -----------------------------------------------------------------------------
+arquivo_saida = "framework_metodologico_reutilizavel.png"
+
+plt.savefig(
+    arquivo_saida,
+    dpi=220,
+    bbox_inches="tight",
+    facecolor=fig.get_facecolor(),
+)
+
+plt.show()
+
+print(f"Imagem salva em: {arquivo_saida}")
