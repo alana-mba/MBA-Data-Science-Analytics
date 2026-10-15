@@ -1,0 +1,5 @@
+﻿Situação;Destino do valor;Empresa x classe x ano
+Erro de captura: valor do ano anterior;Corrigido;31
+Soma das classes diferente do total: valor que confere;Corrigido;5
+Valor nominal atípico com salto;Anulado;87
+Exceção documentada;Anulado;7

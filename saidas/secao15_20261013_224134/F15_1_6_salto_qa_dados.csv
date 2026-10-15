@@ -1,0 +1,6 @@
+﻿CLASSE_SALTO;ROTULO;DESTINO;QTD_SALTOS
+ERRO;Erro de captura (volta ao nível anterior);Corrigido;25
+FRE_E_PRECO;Evento confirmado pelo FRE e pelo preço;Mantido;78
+FRE;Evento confirmado pelo FRE;Mantido;133
+PRECO;Evento confirmado pelo preço;Mantido;93
+SEM_EVENTO;Sem evento (emissão, recompra ou cancelamento);Mantido com sinalização;2191
