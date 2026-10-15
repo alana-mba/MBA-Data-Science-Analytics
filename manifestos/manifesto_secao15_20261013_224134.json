@@ -1,0 +1,553 @@
+{
+  "ID_EXECUCAO": "20261013_224134",
+  "SECAO": "15 - Auditoria mestra e publicação",
+  "MANIFESTO_SECAO14": "manifesto_secao14_20261013_224134.json",
+  "PASTA_PUBLICACAO": "data\\curated\\repositorio_20261013_224134",
+  "PASTA_FIGURAS_TABELAS": "saidas\\secao15_20261013_224134",
+  "CELULAS": [
+    {
+      "VALIDACAO": "dict_validacao_1511",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1512",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1513",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1514",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1515",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1516",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1517",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1521",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1522",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_1523",
+      "FLAG_APROVADA": true
+    },
+    {
+      "VALIDACAO": "dict_validacao_153",
+      "FLAG_APROVADA": true
+    }
+  ],
+  "TABELAS_PUBLICADAS": [
+    {
+      "TABELA": "DIM_EMPRESA",
+      "ARQUIVO": "DIM_EMPRESA.parquet",
+      "QTD_LINHAS": 489,
+      "QTD_COLUNAS": 31,
+      "MB_DISCO": 0.06,
+      "HASH": "9d60ed608a77c661469fad0a11d1e2535b796361e13055f2b58860d81e636307"
+    },
+    {
+      "TABELA": "DIM_ATIVO",
+      "ARQUIVO": "DIM_ATIVO.parquet",
+      "QTD_LINHAS": 806,
+      "QTD_COLUNAS": 32,
+      "MB_DISCO": 0.08,
+      "HASH": "7f0bc92e783d40d31a2fa394c3b4c49bf91a90a6fc7abba3e32677b330106db0"
+    },
+    {
+      "TABELA": "FATO_EMPRESA_TRIMESTRAL",
+      "ARQUIVO": "FATO_EMPRESA_TRIMESTRAL.parquet",
+      "QTD_LINHAS": 18851,
+      "QTD_COLUNAS": 76,
+      "MB_DISCO": 4.67,
+      "HASH": "220c0b453ceee2a23e169b99f002afd608fd7fd9779958b1b8f8c3b7441ec3d1"
+    },
+    {
+      "TABELA": "FATO_EMPRESA_ANUAL",
+      "ARQUIVO": "FATO_EMPRESA_ANUAL.parquet",
+      "QTD_LINHAS": 4579,
+      "QTD_COLUNAS": 89,
+      "MB_DISCO": 1.63,
+      "HASH": "3c0cb37689a7e47af83bd11ca6e3cf0b4bb821d2f4b765167050c6695a5d9caf"
+    },
+    {
+      "TABELA": "FATO_ATIVO_TRIMESTRAL",
+      "ARQUIVO": "FATO_ATIVO_TRIMESTRAL.parquet",
+      "QTD_LINHAS": 24159,
+      "QTD_COLUNAS": 37,
+      "MB_DISCO": 0.82,
+      "HASH": "5db088a9408d8e8fbe3c5abd5f1d4bf7ff4fb0ddcf1b5349fd35c3db874122d0"
+    },
+    {
+      "TABELA": "FATO_ATIVO_ANUAL",
+      "ARQUIVO": "FATO_ATIVO_ANUAL.parquet",
+      "QTD_LINHAS": 5981,
+      "QTD_COLUNAS": 75,
+      "MB_DISCO": 0.51,
+      "HASH": "83d4133d29cefe79b717ce3c982c94a87a660f17cf593ce52fb3b2375e3e1fba"
+    }
+  ],
+  "DICIONARIOS": [
+    {
+      "TABELA": "DIM_EMPRESA",
+      "ARQUIVO": "dicionario_DIM_EMPRESA.csv",
+      "QTD_CAMPOS": 31
+    },
+    {
+      "TABELA": "DIM_ATIVO",
+      "ARQUIVO": "dicionario_DIM_ATIVO.csv",
+      "QTD_CAMPOS": 32
+    },
+    {
+      "TABELA": "FATO_EMPRESA_TRIMESTRAL",
+      "ARQUIVO": "dicionario_FATO_EMPRESA_TRIMESTRAL.csv",
+      "QTD_CAMPOS": 76
+    },
+    {
+      "TABELA": "FATO_EMPRESA_ANUAL",
+      "ARQUIVO": "dicionario_FATO_EMPRESA_ANUAL.csv",
+      "QTD_CAMPOS": 89
+    },
+    {
+      "TABELA": "FATO_ATIVO_TRIMESTRAL",
+      "ARQUIVO": "dicionario_FATO_ATIVO_TRIMESTRAL.csv",
+      "QTD_CAMPOS": 37
+    },
+    {
+      "TABELA": "FATO_ATIVO_ANUAL",
+      "ARQUIVO": "dicionario_FATO_ATIVO_ANUAL.csv",
+      "QTD_CAMPOS": 75
+    }
+  ],
+  "FIGURAS_E_TABELAS": [
+    {
+      "TIPO": "Figura",
+      "NUMERO": 2,
+      "CODIGO": "F15_1_1_destino_linhas",
+      "LEGENDA": "Figura 2. Destino das linhas brutas de cada fonte entre a ingestão e as tabelas tratadas",
+      "ARQUIVO": "F15_1_1_destino_linhas.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 3,
+      "CODIGO": "F15_1_2_chaves",
+      "LEGENDA": "Figura 3. Chaves de ligação que casam com a referência antes e depois da padronização, em linhas (A) e em valores distintos (B)",
+      "ARQUIVO": "F15_1_2_chaves.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 4,
+      "CODIGO": "F15_1_3_tempo_A",
+      "LEGENDA": "Figura 4. Documentos entregues por dias após o fim do período",
+      "ARQUIVO": "F15_1_3_tempo_A.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 5,
+      "CODIGO": "F15_1_3_tempo_B",
+      "LEGENDA": "Figura 5. Dias entre a entrega e o pregão usado no preço",
+      "ARQUIVO": "F15_1_3_tempo_B.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 6,
+      "CODIGO": "F15_1_4_funil",
+      "LEGENDA": "Figura 6. Empresa × ano excluídas por critério do universo, na ordem de aplicação",
+      "ARQUIVO": "F15_1_4_funil.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 7,
+      "CODIGO": "F15_1_4_composicao",
+      "LEGENDA": "Figura 7. Empresas no universo por ano, conforme a situação na data de corte, e percentual das que saíram da bolsa",
+      "ARQUIVO": "F15_1_4_composicao.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 8,
+      "CODIGO": "F15_1_5_metodo",
+      "LEGENDA": "Figura 8. Método de obtenção do valor do trimestre isolado, por variável",
+      "ARQUIVO": "F15_1_5_metodo.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 9,
+      "CODIGO": "F15_1_5_acumulado",
+      "LEGENDA": "Figura 9. Mediana da receita líquida acumulada no exercício e do trimestre isolado, por meses acumulados",
+      "ARQUIVO": "F15_1_5_acumulado.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 10,
+      "CODIGO": "F15_1_5_saneamento",
+      "LEGENDA": "Figura 10. Empresa × trimestre alterados por regra de saneamento, conforme o destino do valor",
+      "ARQUIVO": "F15_1_5_saneamento.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 11,
+      "CODIGO": "F15_1_6_variacao_qa",
+      "LEGENDA": "Figura 11. Distribuição da variação anual da quantidade de ações por classe e limite de salto",
+      "ARQUIVO": "F15_1_6_variacao_qa.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 12,
+      "CODIGO": "F15_1_6_salto_qa",
+      "LEGENDA": "Figura 12. Saltos da quantidade de ações por classificação e destino do valor",
+      "ARQUIVO": "F15_1_6_salto_qa.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 13,
+      "CODIGO": "F15_1_6_qa_preco",
+      "LEGENDA": "Figura 13. Variação da quantidade de ações e retorno do preço nos saltos confirmados pelo preço",
+      "ARQUIVO": "F15_1_6_qa_preco.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 14,
+      "CODIGO": "F15_1_6_lpa",
+      "LEGENDA": "Figura 14. Distribuição da razão entre o LPA declarado e o LPA calculado pelo lucro e pela quantidade de ações",
+      "ARQUIVO": "F15_1_6_lpa.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 15,
+      "CODIGO": "F15_1_7_roa",
+      "LEGENDA": "Figura 15. Retorno sobre o ativo pelo lucro líquido e pelo lucro das operações continuadas, nos empresa × ano com operação descontinuada",
+      "ARQUIVO": "F15_1_7_roa.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 16,
+      "CODIGO": "F15_1_7_emissao",
+      "LEGENDA": "Figura 16. Empresas com aumento do capital social e com emissão de ações, por ano fiscal",
+      "ARQUIVO": "F15_1_7_emissao.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 17,
+      "CODIGO": "F15_2_1_modelo",
+      "LEGENDA": "Figura 17. Modelo dimensional publicado: dimensões, fatos e relações entre as tabelas",
+      "ARQUIVO": "F15_2_1_modelo.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 18,
+      "CODIGO": "F15_2_2_nulos",
+      "LEGENDA": "Figura 18. Composição dos valores ausentes de cada tabela por motivo",
+      "ARQUIVO": "F15_2_2_nulos.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 19,
+      "CODIGO": "F15_2_2_criterios",
+      "LEGENDA": "Figura 19. Percentual de registros com todos os dados exigidos por critério de Graham e sinal de Piotroski, por ano fiscal",
+      "ARQUIVO": "F15_2_2_criterios.png"
+    },
+    {
+      "TIPO": "Figura",
+      "NUMERO": 20,
+      "CODIGO": "F15_2_3_regras",
+      "LEGENDA": "Figura 20. Regras de aceite bloqueantes por etapa do fluxo de tratamento",
+      "ARQUIVO": "F15_2_3_regras.png"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 3,
+      "CODIGO": "T15_1_1_volume_fonte",
+      "LEGENDA": "Tabela 3. Linhas de cada fonte por etapa do tratamento e registros publicados nas tabelas finais",
+      "ARQUIVO": "T15_1_1_volume_fonte.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 4,
+      "CODIGO": "T15_1_2_padronizacao",
+      "LEGENDA": "Tabela 4. Indicadores de chaves, datas e textos antes e depois da padronização estrutural",
+      "ARQUIVO": "T15_1_2_padronizacao.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 5,
+      "CODIGO": "T15_1_4_funil",
+      "LEGENDA": "Tabela 5. Empresa × ano e empresas excluídas por critério do universo, na ordem de aplicação",
+      "ARQUIVO": "T15_1_4_funil.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 6,
+      "CODIGO": "T15_1_4_base_contabil",
+      "LEGENDA": "Tabela 6. Empresas do universo por base contábil adotada",
+      "ARQUIVO": "T15_1_4_base_contabil.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 7,
+      "CODIGO": "T15_1_5_reconciliacao",
+      "LEGENDA": "Tabela 7. Exercícios completos e exercícios fora da tolerância na reconciliação entre a soma dos trimestres e o valor anual, antes e depois do recálculo pelos acumulados, por campo",
+      "ARQUIVO": "T15_1_5_reconciliacao.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 8,
+      "CODIGO": "T15_1_5_descritiva_contagem",
+      "LEGENDA": "Tabela 8. Contagens e moda das variáveis contábeis trimestrais antes e depois do saneamento",
+      "ARQUIVO": "T15_1_5_descritiva_contagem.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 9,
+      "CODIGO": "T15_1_5_descritiva_distribuicao",
+      "LEGENDA": "Tabela 9. Média, desvio padrão e percentis das variáveis contábeis trimestrais antes e depois do saneamento",
+      "ARQUIVO": "T15_1_5_descritiva_distribuicao.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 10,
+      "CODIGO": "T15_1_5_saneamento",
+      "LEGENDA": "Tabela 10. Regras de saneamento dos valores contábeis trimestrais, destino do valor e quantidade de empresa × trimestre alterados",
+      "ARQUIVO": "T15_1_5_saneamento.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 11,
+      "CODIGO": "T15_1_6_correcao_qa",
+      "LEGENDA": "Tabela 11. Quantidades de ações corrigidas ou anuladas, por situação",
+      "ARQUIVO": "T15_1_6_correcao_qa.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 12,
+      "CODIGO": "T15_1_6_lpa",
+      "LEGENDA": "Tabela 12. LPA por situação na conferência com o LPA calculado e destino do valor",
+      "ARQUIVO": "T15_1_6_lpa.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 13,
+      "CODIGO": "T15_1_7_roa",
+      "LEGENDA": "Tabela 13. Empresa × ano em que o lucro das operações continuadas difere do lucro líquido e em que o sinal do ROA mudaria",
+      "ARQUIVO": "T15_1_7_roa.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 14,
+      "CODIGO": "T15_1_7_emissao",
+      "LEGENDA": "Tabela 14. Empresa × ano por aumento do capital social e por emissão de ações (ingresso no patrimônio líquido)",
+      "ARQUIVO": "T15_1_7_emissao.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 15,
+      "CODIGO": "T15_2_1_tabelas",
+      "LEGENDA": "Tabela 15. Tabelas do repositório por tipo, grão, chave primária, volume e período",
+      "ARQUIVO": "T15_2_1_tabelas.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 16,
+      "CODIGO": "T15_2_2_completude",
+      "LEGENDA": "Tabela 16. Preenchimento dos campos publicáveis por tabela do repositório",
+      "ARQUIVO": "T15_2_2_completude.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 17,
+      "CODIGO": "T15_2_2_nulos",
+      "LEGENDA": "Tabela 17. Valores ausentes por motivo e tabela do repositório",
+      "ARQUIVO": "T15_2_2_nulos.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 18,
+      "CODIGO": "T15_2_3_etapas",
+      "LEGENDA": "Tabela 18. Células e regras de aceite bloqueantes por etapa do fluxo de tratamento",
+      "ARQUIVO": "T15_2_3_etapas.csv"
+    },
+    {
+      "TIPO": "Tabela",
+      "NUMERO": 19,
+      "CODIGO": "T15_2_3_aceite",
+      "LEGENDA": "Tabela 19. Critérios de aceite da base final, célula de verificação e resultado",
+      "ARQUIVO": "T15_2_3_aceite.csv"
+    }
+  ],
+  "CRITERIOS_DE_ACEITE": [
+    {
+      "CRITERIO": "Ausência de informação com data de entrega posterior à data considerada",
+      "CELULA": "15.1.3",
+      "QTD_REGRAS": 8,
+      "FLAG_ATENDIDO": true
+    },
+    {
+      "CRITERIO": "Unicidade das chaves de cada tabela",
+      "CELULA": "14.1.1",
+      "QTD_REGRAS": 8,
+      "FLAG_ATENDIDO": true
+    },
+    {
+      "CRITERIO": "Integridade referencial entre fatos e dimensões",
+      "CELULA": "15.2.1",
+      "QTD_REGRAS": 3,
+      "FLAG_ATENDIDO": true
+    },
+    {
+      "CRITERIO": "Reconciliação entre valores trimestrais e anuais dentro da tolerância",
+      "CELULA": "14.1.2",
+      "QTD_REGRAS": 5,
+      "FLAG_ATENDIDO": true
+    },
+    {
+      "CRITERIO": "Registro do motivo de todo valor ausente",
+      "CELULA": "14.3",
+      "QTD_REGRAS": 3,
+      "FLAG_ATENDIDO": true
+    }
+  ],
+  "CONFERENCIA_TEXTO": [
+    {
+      "ETAPA": "Fontes e ingestão",
+      "AFIRMACAO": "Ingestão bruta preservada, com volume e destino de cada fonte medidos",
+      "VALOR_MEDIDO": "62,5 milhões de linhas brutas → 54.865 registros publicados",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Tabela 3; Figura 2"
+    },
+    {
+      "ETAPA": "Point-in-time",
+      "AFIRMACAO": "Nenhuma informação com entrega posterior à data considerada",
+      "VALOR_MEDIDO": "0 entregas após o corte nas tabelas finais",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 4"
+    },
+    {
+      "ETAPA": "Point-in-time",
+      "AFIRMACAO": "Último trimestre: o último entregue por ao menos 95% das companhias obrigadas",
+      "VALOR_MEDIDO": "06/2026: 98,1%; trimestre seguinte: sem dado%",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 4"
+    },
+    {
+      "ETAPA": "Point-in-time",
+      "AFIRMACAO": "Preço do primeiro pregão na data de entrega ou após, limitado a 60 dias",
+      "VALOR_MEDIDO": "maior intervalo: 60 dias",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 5"
+    },
+    {
+      "ETAPA": "Universo",
+      "AFIRMACAO": "Companhias canceladas mantidas nos anos em que atendiam aos critérios (sem viés de sobrevivência)",
+      "VALOR_MEDIDO": "622 empresa × ano de companhias que saíram da bolsa",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 7"
+    },
+    {
+      "ETAPA": "Universo",
+      "AFIRMACAO": "Uma única base contábil (consolidada ou individual) por empresa",
+      "VALOR_MEDIDO": "máximo de 1 base por empresa",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Tabela 6"
+    },
+    {
+      "ETAPA": "Transformação contábil",
+      "AFIRMACAO": "Soma dos trimestres reconciliada com o valor anual (tolerância de 1% ou R$ 1 mil)",
+      "VALOR_MEDIDO": "exercícios fora da tolerância: 733 → 0",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Tabela 7; Figura 8"
+    },
+    {
+      "ETAPA": "Transformação contábil",
+      "AFIRMACAO": "Valores que violam premissas contábeis anulados, com motivo registrado",
+      "VALOR_MEDIDO": "126 empresa × trimestre anulados",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 10; Tabela 10"
+    },
+    {
+      "ETAPA": "Transformação societária",
+      "AFIRMACAO": "Salto de quantidade de ações acima de Q3 + 3 × IQR da variação anual em log",
+      "VALOR_MEDIDO": "limite calculado: 0,01",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 11; Figura 12"
+    },
+    {
+      "ETAPA": "Transformação societária",
+      "AFIRMACAO": "LPA em escala errada (centavos ou milhares) corrigido pela potência de 10",
+      "VALOR_MEDIDO": "78 LPA com escala corrigida",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 14; Tabela 12"
+    },
+    {
+      "ETAPA": "Indicadores",
+      "AFIRMACAO": "ROA pelo resultado das operações continuadas (3.09), não pelo lucro líquido",
+      "VALOR_MEDIDO": "23 empresa × ano mudariam o sinal com o lucro líquido",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 15; Tabela 13"
+    },
+    {
+      "ETAPA": "Indicadores",
+      "AFIRMACAO": "Capitalização de reservas não considerada emissão de ações",
+      "VALOR_MEDIDO": "436 aumentos de capital social sem ingresso no PL",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 16; Tabela 14"
+    },
+    {
+      "ETAPA": "Indicadores",
+      "AFIRMACAO": "Janelas de 10 anos completas a partir de 2020",
+      "VALOR_MEDIDO": "primeiro ano com G3 disponível: 2020",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 19"
+    },
+    {
+      "ETAPA": "Modelo dimensional",
+      "AFIRMACAO": "Duas dimensões e quatro fatos, com integridade referencial",
+      "VALOR_MEDIDO": "6 tabelas; 0 chaves órfãs",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 17; Tabela 15"
+    },
+    {
+      "ETAPA": "Auditoria",
+      "AFIRMACAO": "Motivo registrado para todo valor ausente",
+      "VALOR_MEDIDO": "0 nulos sem motivo",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Figura 18; Tabela 17"
+    },
+    {
+      "ETAPA": "Auditoria",
+      "AFIRMACAO": "Critérios de aceite da base final atendidos",
+      "VALOR_MEDIDO": "5/5",
+      "FLAG_CONFIRMADA": true,
+      "EVIDENCIA": "Tabela 19"
+    }
+  ],
+  "PONTOS_TEXTO_REVISAR": [
+    {
+      "TRECHO_DO_TEXTO": "Exercício social pelo mês de encerramento mais frequente",
+      "O_QUE_O_CODIGO_FAZ": "início do exercício pela DRE de cada documento; ITR dentro de outro exercício recebe o início desse exercício (9.1.2)"
+    },
+    {
+      "TRECHO_DO_TEXTO": "Trimestre isolado da DRE e da DFC",
+      "O_QUE_O_CODIGO_FAZ": "acumulado ausente reconstruído pelo acumulado anterior mais o trimestre informado (9.2.2)"
+    },
+    {
+      "TRECHO_DO_TEXTO": "Lucro dos controladores",
+      "O_QUE_O_CODIGO_FAZ": "conta 3.11.01 zerada com lucro na 3.11: igual ao lucro líquido sem minoritários; nula com minoritários (9.2.2 e 9.2.4)"
+    },
+    {
+      "TRECHO_DO_TEXTO": "Dividendos desde 2001 para a contagem de anos consecutivos",
+      "O_QUE_O_CODIGO_FAZ": "sequência contada a partir da grade de anos fiscais do repositório (13.5.1)"
+    }
+  ]
+}

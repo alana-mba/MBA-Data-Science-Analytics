@@ -1,0 +1,7 @@
+﻿Tabela;Tipo;Grão;Chave primária;Linhas;Colunas;Colunas de auditoria;Período
+DIM_EMPRESA;Dimensão;empresa;CODIGO_CVM;489;31;9;
+DIM_ATIVO;Dimensão;ativo;ID_ATIVO;806;32;7;
+FATO_EMPRESA_TRIMESTRAL;Fato;empresa x trimestre;CODIGO_CVM + DATA_FIM_EXERCICIO;18851;76;33;2011 a 2027
+FATO_EMPRESA_ANUAL;Fato;empresa x ano fiscal;CODIGO_CVM + ANO_FISCAL;4579;89;38;2011 a 2026
+FATO_ATIVO_TRIMESTRAL;Fato;ativo x trimestre;ID_ATIVO + DATA_FIM_EXERCICIO;24159;37;18;2011 a 2027
+FATO_ATIVO_ANUAL;Fato;ativo x ano fiscal;ID_ATIVO + ANO_FISCAL;5981;75;47;2011 a 2026

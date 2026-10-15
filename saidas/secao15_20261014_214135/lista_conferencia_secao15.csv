@@ -1,0 +1,17 @@
+﻿ETAPA;AFIRMACAO;VALOR_MEDIDO;FLAG_CONFIRMADA;EVIDENCIA
+Fontes e ingestão;Ingestão bruta preservada, com volume e destino de cada fonte medidos;62,5 milhões de linhas brutas → 54.865 registros publicados;True;"Tabela 3; Figura 2"
+Point-in-time;Nenhuma informação com entrega posterior à data considerada;0 entregas após o corte nas tabelas finais;True;Figura 4
+Point-in-time;Último trimestre: o último entregue por ao menos 95% das companhias obrigadas;"06/2026: 98,1%; trimestre seguinte: sem dado%";True;Figura 4
+Point-in-time;Preço do primeiro pregão na data de entrega ou após, limitado a 60 dias;maior intervalo: 60 dias;True;Figura 5
+Universo;Companhias canceladas mantidas nos anos em que atendiam aos critérios (sem viés de sobrevivência);622 empresa x ano de companhias que saíram da bolsa;True;Figura 7
+Universo;Uma única base contábil (consolidada ou individual) por empresa;máximo de 1 base por empresa;True;Tabela 6
+Transformação contábil;Soma dos trimestres reconciliada com o valor anual (tolerância de 1% ou R$ 1 mil);exercícios fora da tolerância: 733 → 0;True;"Tabela 7; Figura 8"
+Transformação contábil;Valores que violam premissas contábeis anulados, com motivo registrado;126 empresa x trimestre anulados;True;"Figura 10; Tabela 10"
+Transformação societária;Salto de quantidade de ações acima de Q3 + 3 x IQR da variação anual em log;limite calculado: 0,01;True;"Figura 11; Figura 12"
+Transformação societária;LPA em escala errada (centavos ou milhares) corrigido pela potência de 10;78 LPA com escala corrigida;True;"Figura 14; Tabela 12"
+Indicadores;ROA pelo resultado das operações continuadas (3.09), não pelo lucro líquido;23 empresa x ano mudariam o sinal com o lucro líquido;True;"Figura 15; Tabela 13"
+Indicadores;Capitalização de reservas não considerada emissão de ações;436 aumentos de capital social sem ingresso no PL;True;"Figura 16; Tabela 14"
+Indicadores;Janelas de 10 anos completas a partir de 2020;primeiro ano com G3 disponível: 2020;True;Figura 19
+Modelo dimensional;Duas dimensões e quatro fatos, com integridade referencial;"6 tabelas; 0 chaves órfãs";True;"Figura 17; Tabela 15"
+Auditoria;Motivo registrado para todo valor ausente;0 nulos sem motivo;True;"Figura 18; Tabela 17"
+Auditoria;Critérios de aceite da base final atendidos;5/5;True;Tabela 19

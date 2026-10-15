@@ -1,0 +1,13 @@
+﻿Regra;Destino do valor;Empresa x trimestre
+Receita trimestral negativa;Anulado;102
+Zero isolado na receita líquida;Anulado;9
+Ativo total zero ou menor que o circulante;Anulado;7
+Zero isolado no lucro líquido;Anulado;4
+Caixa negativo;Anulado;3
+Zero isolado no patrimônio líquido;Anulado;1
+Zero isolado no ativo total;Anulado;0
+Lucro dos controladores zerado, com minoritários;Anulado;0
+Lucro dos controladores zerado, sem minoritários;Substituído;5
+Patrimônio líquido quase zero;Sinalizado;274
+Ativo de 12 meses antes instável;Sinalizado;57
+Ativo total atípico;Sinalizado;38

@@ -1,0 +1,697 @@
+﻿ID_EXECUCAO;ID_ATIVO;TICKER_YAHOO;STATUS_CONSULTA;STATUS_VIGENTE;RESULTADO;ACAO;VERSAO_LOCAL;QTD_EVENTOS;FLAG_FONTE_INDISPONIVEL;DETALHE;CRITICO;CAMINHO_RELATIVO
+20261014_214135;AALR3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AALR3__20261006_9ad0dcbe.csv
+20261014_214135;ABEV3;;;COM_EVENTOS;LIDO_LOCAL;;1;54;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ABEV3__20261006_0d928b78.csv
+20261014_214135;ABRE11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ABRE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ADHM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AEDU3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AELP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AERI3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AERI3__20261006_b0a80b13.csv
+20261014_214135;AESB3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AFLT3;;;COM_EVENTOS;LIDO_LOCAL;;1;29;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AFLT3__20261006_1ebe2208.csv
+20261014_214135;AFLU3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AFLU5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AGRO3;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AGRO3__20261006_a1c41206.csv
+20261014_214135;AGXY3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AGXY3__20261006_b8e83c2f.csv
+20261014_214135;AHEB3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AHEB3__20261006_642daec7.csv
+20261014_214135;AHEB5;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AHEB5__20261006_642daec7.csv
+20261014_214135;AHEB6;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AHEB6__20261006_642daec7.csv
+20261014_214135;ALLD3;;;COM_EVENTOS;LIDO_LOCAL;;2;11;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALLD3__20261006_2d01983a.csv
+20261014_214135;ALLL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ALOS3;;;COM_EVENTOS;LIDO_LOCAL;;1;38;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALOS3__20261006_f4c0821b.csv
+20261014_214135;ALPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;50;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALPA3__20261006_f4dbdd6a.csv
+20261014_214135;ALPA4;;;COM_EVENTOS;LIDO_LOCAL;;1;43;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALPA4__20261006_e9c4c18b.csv
+20261014_214135;ALPK3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALPK3__20261006_24d8645f.csv
+20261014_214135;ALSC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ALSO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ALUP11;;;COM_EVENTOS;LIDO_LOCAL;;1;28;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALUP11__20261006_6f498248.csv
+20261014_214135;ALUP3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALUP3__20261006_a39e9bfc.csv
+20261014_214135;ALUP4;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ALUP4__20261006_0f620d96.csv
+20261014_214135;AMAR3;;;COM_EVENTOS;LIDO_LOCAL;;1;13;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AMAR3__20261006_c1b1e05f.csv
+20261014_214135;AMBP3;;;COM_EVENTOS;LIDO_LOCAL;;1;3;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AMBP3__20261006_c911662e.csv
+20261014_214135;AMBV3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AMBV4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AMCE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AMER3;;;COM_EVENTOS;LIDO_LOCAL;;1;7;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AMER3__20261006_58dcf37a.csv
+20261014_214135;AMIL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AMOB3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AMOB3__20261006_642daec7.csv
+20261014_214135;AMPI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ANIM3;;;COM_EVENTOS;LIDO_LOCAL;;1;9;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ANIM3__20261006_d039dfaf.csv
+20261014_214135;APTI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ARML3;;;COM_EVENTOS;LIDO_LOCAL;;1;16;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ARML3__20261006_26f949e3.csv
+20261014_214135;ARTR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ARZZ3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ASAI3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ASAI3__20261006_03b3566f.csv
+20261014_214135;ATED3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ATED3__20261006_642daec7.csv
+20261014_214135;ATMP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ATOM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AUAU3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AUAU3__20261006_aa7da944.csv
+20261014_214135;AURE3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AURE3__20261006_ae4391fe.csv
+20261014_214135;AUTM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AVLL3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AVLL3__20261006_642daec7.csv
+20261014_214135;AXIA3;;;COM_EVENTOS;LIDO_LOCAL;;1;18;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AXIA3__20261006_8dd498af.csv
+20261014_214135;AXIA5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AXIA6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AXIA7;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AXIA7__20261006_642daec7.csv
+20261014_214135;AZEV3;;;COM_EVENTOS;LIDO_LOCAL;;1;3;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZEV3__20261006_348a9829.csv
+20261014_214135;AZEV4;;;COM_EVENTOS;LIDO_LOCAL;;1;3;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZEV4__20261006_a23efe61.csv
+20261014_214135;AZTE3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZTE3__20261006_642daec7.csv
+20261014_214135;AZUL3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZUL3__20261006_642daec7.csv
+20261014_214135;AZUL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;AZUL97;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZUL97__20261006_642daec7.csv
+20261014_214135;AZUL98;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZUL98__20261006_642daec7.csv
+20261014_214135;AZUL99;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZUL99__20261006_642daec7.csv
+20261014_214135;AZZA3;;;COM_EVENTOS;LIDO_LOCAL;;1;50;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_AZZA3__20261006_3ba62d7c.csv
+20261014_214135;BAHI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BALM3;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BALM3__20261006_a736e873.csv
+20261014_214135;BALM4;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BALM4__20261006_db887bdd.csv
+20261014_214135;BAUH4;;;COM_EVENTOS;LIDO_LOCAL;;1;12;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BAUH4__20261006_ad5b7184.csv
+20261014_214135;BBRK3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BDLL3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BDLL3__20261006_eae3339e.csv
+20261014_214135;BDLL4;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BDLL4__20261006_a6295c0d.csv
+20261014_214135;BEEF3;;;COM_EVENTOS;LIDO_LOCAL;;1;13;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BEEF3__20261006_4da4bc4b.csv
+20261014_214135;BEMA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BHGR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BHIA3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BHIA3__20261006_d976ba6b.csv
+20261014_214135;BIED3;;;COM_EVENTOS;LIDO_LOCAL;;1;7;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BIED3__20261006_154ca198.csv
+20261014_214135;BIOM3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BIOM3__20261006_642daec7.csv
+20261014_214135;BISA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BKBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BLAU3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BLAU3__20261006_ba823622.csv
+20261014_214135;BMKS3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BMKS3__20261006_8d63e27a.csv
+20261014_214135;BMOB3;;;COM_EVENTOS;LIDO_LOCAL;;1;9;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BMOB3__20261006_78a82f44.csv
+20261014_214135;BOAS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BOBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BOBR4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BOBR4__20261006_642daec7.csv
+20261014_214135;BPHA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRAV3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BRAV3__20261006_54bad17b.csv
+20261014_214135;BRDT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRFS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRIT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRKM3;;;COM_EVENTOS;LIDO_LOCAL;;1;12;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BRKM3__20261006_2a4ab5f0.csv
+20261014_214135;BRKM5;;;COM_EVENTOS;LIDO_LOCAL;;1;16;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BRKM5__20261006_fb2987d7.csv
+20261014_214135;BRKM6;;;COM_EVENTOS;LIDO_LOCAL;;1;9;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BRKM6__20261006_4dc993dc.csv
+20261014_214135;BRML3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRPR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRST3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_BRST3__20261006_26071b8e.csv
+20261014_214135;BRTO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BRTO4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BSEV3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BTOW3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BTTL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;BTTL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CALI3;;;COM_EVENTOS;LIDO_LOCAL;;1;10;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CALI3__20261006_5425b019.csv
+20261014_214135;CALI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CAMB3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CAMB3__20261006_be3ddc8f.csv
+20261014_214135;CAMB4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CAML3;;;COM_EVENTOS;LIDO_LOCAL;;1;37;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CAML3__20261006_d918f865.csv
+20261014_214135;CARD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CASH3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CASH3__20261006_72d0a4d1.csv
+20261014_214135;CASN3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CASN3__20261006_642daec7.csv
+20261014_214135;CASN4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CBAV3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CBAV3__20261006_57f2c0d6.csv
+20261014_214135;CBEE3;;;COM_EVENTOS;LIDO_LOCAL;;1;13;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CBEE3__20261006_283be4b0.csv
+20261014_214135;CBMA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CBMA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CCHI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CCHI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CCIM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CCPR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CCRO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CCTY3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CCTY3__20261006_642daec7.csv
+20261014_214135;CEAB3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEAB3__20261006_292103de.csv
+20261014_214135;CEBR3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEBR3__20261006_862b5aa0.csv
+20261014_214135;CEBR5;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEBR5__20261006_0051730f.csv
+20261014_214135;CEBR6;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEBR6__20261006_64e2b39d.csv
+20261014_214135;CEDO3;;;COM_EVENTOS;LIDO_LOCAL;;1;12;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEDO3__20261006_27c611b7.csv
+20261014_214135;CEDO4;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEDO4__20261006_6609f9da.csv
+20261014_214135;CEEB3;;;COM_EVENTOS;LIDO_LOCAL;;1;64;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEEB3__20261006_40f5ac68.csv
+20261014_214135;CEEB5;;;COM_EVENTOS;LIDO_LOCAL;;1;58;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEEB5__20261006_4d05236b.csv
+20261014_214135;CEED3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEED3__20261006_642daec7.csv
+20261014_214135;CEED4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEED4__20261006_642daec7.csv
+20261014_214135;CEGR3;;;COM_EVENTOS;LIDO_LOCAL;;1;37;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CEGR3__20261006_3cd18895.csv
+20261014_214135;CELP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CELP5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CELP6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CELP7;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CEPE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CEPE5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CEPE6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CESP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CESP5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CESP6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CGAS3;;;COM_EVENTOS;LIDO_LOCAL;;1;47;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CGAS3__20261006_d3c7be53.csv
+20261014_214135;CGAS5;;;COM_EVENTOS;LIDO_LOCAL;;1;46;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CGAS5__20261006_6ce443c7.csv
+20261014_214135;CGRA3;;;COM_EVENTOS;LIDO_LOCAL;;1;32;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CGRA3__20261006_acaabea2.csv
+20261014_214135;CGRA4;;;COM_EVENTOS;LIDO_LOCAL;;1;31;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CGRA4__20261006_2be97872.csv
+20261014_214135;CIQU3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CIQU4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CLAN4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CLSA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CLSC3;;;COM_EVENTOS;LIDO_LOCAL;;1;42;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CLSC3__20261006_04f258c5.csv
+20261014_214135;CLSC4;;;COM_EVENTOS;LIDO_LOCAL;;1;35;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CLSC4__20261006_c19364c4.csv
+20261014_214135;CLSC5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CLSC6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CMGR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CMGR4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CMIG3;;;COM_EVENTOS;LIDO_LOCAL;;1;56;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CMIG3__20261006_65a27b0a.csv
+20261014_214135;CMIG4;;;COM_EVENTOS;LIDO_LOCAL;;1;53;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CMIG4__20261006_8e8ba82e.csv
+20261014_214135;CMIN3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CMIN3__20261006_af6fb8b5.csv
+20261014_214135;CNFB3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CNFB4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CNTO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;COCE3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_COCE3__20261006_7e615e4d.csv
+20261014_214135;COCE5;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_COCE5__20261006_ea661685.csv
+20261014_214135;COCE6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;COGN3;;;COM_EVENTOS;LIDO_LOCAL;;1;30;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_COGN3__20261006_b33523ff.csv
+20261014_214135;CORR4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CPFE3;;;COM_EVENTOS;LIDO_LOCAL;;1;26;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CPFE3__20261006_a7e1ee78.csv
+20261014_214135;CPLE11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CPLE3;;;COM_EVENTOS;LIDO_LOCAL;;1;36;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CPLE3__20261006_fa5f062e.csv
+20261014_214135;CPLE5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CPLE6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CPRE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CRDE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CREM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CRFB3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CRPG3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CRPG3__20261006_37968e99.csv
+20261014_214135;CRPG5;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CRPG5__20261006_bfacd51b.csv
+20261014_214135;CRPG6;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CRPG6__20261006_83e828c7.csv
+20261014_214135;CRUZ3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CSAN3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CSAN3__20261006_5804723d.csv
+20261014_214135;CSED3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CSED3__20261006_28a377f2.csv
+20261014_214135;CSMG3;;;COM_EVENTOS;LIDO_LOCAL;;1;68;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CSMG3__20261006_048513d9.csv
+20261014_214135;CSNA3;;;COM_EVENTOS;LIDO_LOCAL;;1;28;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CSNA3__20261006_3e1e48a7.csv
+20261014_214135;CSRN3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CSRN5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CSRN6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CSUD3;;;COM_EVENTOS;LIDO_LOCAL;;1;48;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CSUD3__20261006_c2e386c2.csv
+20261014_214135;CTAX11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CTAX3;;;COM_EVENTOS;LIDO_LOCAL;;1;10;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CTAX3__20261006_e9afed3c.csv
+20261014_214135;CTAX4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CTKA3;;;COM_EVENTOS;LIDO_LOCAL;;1;3;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CTKA3__20261006_62e303f9.csv
+20261014_214135;CTKA4;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CTKA4__20261006_1a833718.csv
+20261014_214135;CTNM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CTNM4;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CTNM4__20261006_9364b050.csv
+20261014_214135;CTPC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;CTSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CTSA3__20261006_a41472f2.csv
+20261014_214135;CTSA4;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CTSA4__20261006_f8fd59b6.csv
+20261014_214135;CURY3;;;COM_EVENTOS;LIDO_LOCAL;;1;18;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CURY3__20261006_2ba8c2ef.csv
+20261014_214135;CVCB3;;;COM_EVENTOS;LIDO_LOCAL;;1;13;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CVCB3__20261006_4e60b659.csv
+20261014_214135;CYRE3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CYRE3__20261006_782a1962.csv
+20261014_214135;CYRE4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_CYRE4__20261006_642daec7.csv
+20261014_214135;DASA3;;;COM_EVENTOS;LIDO_LOCAL;;1;16;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DASA3__20261006_4f739ce5.csv
+20261014_214135;DESK3;;;COM_EVENTOS;LIDO_LOCAL;;1;7;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DESK3__20261006_007554c6.csv
+20261014_214135;DEXP3;;;COM_EVENTOS;LIDO_LOCAL;;1;10;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DEXP3__20261006_104e1511.csv
+20261014_214135;DEXP4;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DEXP4__20261006_b110e107.csv
+20261014_214135;DHBI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DHBI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DIRR3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DIRR3__20261006_38e13e83.csv
+20261014_214135;DMVF3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DMVF3__20261006_642daec7.csv
+20261014_214135;DOCA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DOCA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DOHL3;;;COM_EVENTOS;LIDO_LOCAL;;1;19;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DOHL3__20261006_42571061.csv
+20261014_214135;DOHL4;;;COM_EVENTOS;LIDO_LOCAL;;1;16;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DOHL4__20261006_a4133852.csv
+20261014_214135;DOTZ3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DOTZ3__20261006_642daec7.csv
+20261014_214135;DROG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DTCY3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DTCY3__20261006_642daec7.csv
+20261014_214135;DTEX3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DUQE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DUQE4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;DXCO3;;;COM_EVENTOS;LIDO_LOCAL;;1;30;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_DXCO3__20261006_ac38d6b7.csv
+20261014_214135;DXTG4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;EALT3;;;COM_EVENTOS;LIDO_LOCAL;;1;19;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EALT3__20261006_2076c8cc.csv
+20261014_214135;EALT4;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EALT4__20261006_0375ab9d.csv
+20261014_214135;EBTP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;EBTP4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ECOD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ECOM3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ECOM3__20261006_456360f2.csv
+20261014_214135;ECOR3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ECOR3__20261006_42e3214f.csv
+20261014_214135;EEEL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;EEEL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;EGGY3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EGGY3__20261006_642daec7.csv
+20261014_214135;EGIE3;;;COM_EVENTOS;LIDO_LOCAL;;1;55;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EGIE3__20261006_20585436.csv
+20261014_214135;EKTR3;;;COM_EVENTOS;LIDO_LOCAL;;1;59;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EKTR3__20261006_a1e52665.csv
+20261014_214135;EKTR4;;;COM_EVENTOS;LIDO_LOCAL;;1;55;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EKTR4__20261006_afd11734.csv
+20261014_214135;ELEK3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELEK4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELET3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELET5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELET6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELMD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELPL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ELPL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;EMAE3;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EMAE3__20261006_3498f25b.csv
+20261014_214135;EMAE4;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EMAE4__20261006_1a4b4082.csv
+20261014_214135;EMBJ3;;;COM_EVENTOS;LIDO_LOCAL;;1;48;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EMBJ3__20261006_6e591f3c.csv
+20261014_214135;EMBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ENAT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ENBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ENEV3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENEV3__20261006_d447af79.csv
+20261014_214135;ENGI11;;;COM_EVENTOS;LIDO_LOCAL;;1;36;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENGI11__20261006_ae3dcc8b.csv
+20261014_214135;ENGI3;;;COM_EVENTOS;LIDO_LOCAL;;1;40;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENGI3__20261006_d559642b.csv
+20261014_214135;ENGI4;;;COM_EVENTOS;LIDO_LOCAL;;1;38;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENGI4__20261006_e4c5dc06.csv
+20261014_214135;ENJU3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENJU3__20261006_1f7a768e.csv
+20261014_214135;ENMT3;;;COM_EVENTOS;LIDO_LOCAL;;1;29;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENMT3__20261006_9dae9f4c.csv
+20261014_214135;ENMT4;;;COM_EVENTOS;LIDO_LOCAL;;1;32;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ENMT4__20261006_36a7ebcd.csv
+20261014_214135;EPAR3;;;COM_EVENTOS;LIDO_LOCAL;;1;9;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EPAR3__20261006_ef94c10c.csv
+20261014_214135;EQPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EQPA3__20261006_eabd2932.csv
+20261014_214135;EQPA5;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EQPA5__20261006_cac184fd.csv
+20261014_214135;EQPA6;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EQPA6__20261006_aa9ff4fc.csv
+20261014_214135;EQPA7;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EQPA7__20261006_4f5a2aab.csv
+20261014_214135;EQTL3;;;COM_EVENTOS;LIDO_LOCAL;;1;28;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EQTL3__20261006_31b9ae76.csv
+20261014_214135;ESPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ESPA3__20261006_b66d5d6e.csv
+20261014_214135;ESTC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ESTR3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ESTR3__20261006_642daec7.csv
+20261014_214135;ESTR4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ESTR4__20261006_642daec7.csv
+20261014_214135;ETER3;;;COM_EVENTOS;LIDO_LOCAL;;1;50;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ETER3__20261006_fef65d54.csv
+20261014_214135;EUCA3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EUCA3__20261006_dbadb5fd.csv
+20261014_214135;EUCA4;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EUCA4__20261006_453d1c0e.csv
+20261014_214135;EVEN3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EVEN3__20261006_2b82427c.csv
+20261014_214135;EZTC3;;;COM_EVENTOS;LIDO_LOCAL;;1;33;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_EZTC3__20261006_79ad72d4.csv
+20261014_214135;FBMC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FBMC4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FESA3;;;COM_EVENTOS;LIDO_LOCAL;;1;55;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FESA3__20261006_f23e2b66.csv
+20261014_214135;FESA4;;;COM_EVENTOS;LIDO_LOCAL;;1;53;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FESA4__20261006_3eeaf04e.csv
+20261014_214135;FFTL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FFTL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FHER3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FHER3__20261006_f4a2d80a.csv
+20261014_214135;FIBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FICT3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FICT3__20261006_642daec7.csv
+20261014_214135;FIEI3;;;COM_EVENTOS;LIDO_LOCAL;;1;6;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FIEI3__20261006_3fcd288b.csv
+20261014_214135;FIGE3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FIGE3__20261006_4d28e307.csv
+20261014_214135;FIGE4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FIQE3;;;COM_EVENTOS;LIDO_LOCAL;;1;12;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FIQE3__20261006_2f0eca75.csv
+20261014_214135;FJTA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FJTA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FLRY3;;;COM_EVENTOS;LIDO_LOCAL;;1;41;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FLRY3__20261006_82fb83d6.csv
+20261014_214135;FRAS3;;;COM_EVENTOS;LIDO_LOCAL;;1;49;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FRAS3__20261006_5d34a2fa.csv
+20261014_214135;FRAS4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FRIO3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_FRIO3__20261006_794e12bd.csv
+20261014_214135;FRTA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FTRX3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;FTRX4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GEPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;42;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GEPA3__20261006_4216a722.csv
+20261014_214135;GEPA4;;;COM_EVENTOS;LIDO_LOCAL;;1;43;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GEPA4__20261006_489337ef.csv
+20261014_214135;GETI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GETI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GFSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;7;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GFSA3__20261006_7681852d.csv
+20261014_214135;GGBR3;;;COM_EVENTOS;LIDO_LOCAL;;1;66;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GGBR3__20261006_d4768f39.csv
+20261014_214135;GGBR4;;;COM_EVENTOS;LIDO_LOCAL;;1;94;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GGBR4__20261006_b4959e22.csv
+20261014_214135;GGPS3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GGPS3__20261006_a9f1c3f8.csv
+20261014_214135;GLOB3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GMAT3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GMAT3__20261006_3d76760b.csv
+20261014_214135;GNDI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GOAU3;;;COM_EVENTOS;LIDO_LOCAL;;1;63;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GOAU3__20261006_40fb07ed.csv
+20261014_214135;GOAU4;;;COM_EVENTOS;LIDO_LOCAL;;1;91;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GOAU4__20261006_5aada177.csv
+20261014_214135;GOLL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GPAR3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GPAR3__20261006_07499817.csv
+20261014_214135;GPCP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GPCP4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GRND3;;;COM_EVENTOS;LIDO_LOCAL;;1;73;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GRND3__20261006_8dc637b5.csv
+20261014_214135;GSHP3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_GSHP3__20261006_ea3ca387.csv
+20261014_214135;GUAR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;GUAR4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;HAGA3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HAGA3__20261006_642daec7.csv
+20261014_214135;HAGA4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HAGA4__20261006_642daec7.csv
+20261014_214135;HAPV3;;;COM_EVENTOS;LIDO_LOCAL;;1;11;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HAPV3__20261006_46dca6d9.csv
+20261014_214135;HBOR3;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HBOR3__20261006_fbd9b67a.csv
+20261014_214135;HBRE3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HBRE3__20261006_eccaa8c7.csv
+20261014_214135;HBSA3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HBSA3__20261006_642daec7.csv
+20261014_214135;HBTS5;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HBTS5__20261006_d310c810.csv
+20261014_214135;HETA3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HETA3__20261006_642daec7.csv
+20261014_214135;HETA4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HETA4__20261006_642daec7.csv
+20261014_214135;HGTX3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;HOOT4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HOOT4__20261006_642daec7.csv
+20261014_214135;HRTP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;HYPE3;;;COM_EVENTOS;LIDO_LOCAL;;1;48;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_HYPE3__20261006_b2109155.csv
+20261014_214135;IDNT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IENG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IENG5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IFCM3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_IFCM3__20261006_642daec7.csv
+20261014_214135;IGBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IGTA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IGTI11;;;COM_EVENTOS;LIDO_LOCAL;;1;10;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_IGTI11__20261006_8430de9d.csv
+20261014_214135;IGTI3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_IGTI3__20261006_0d0cb469.csv
+20261014_214135;IGTI4;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_IGTI4__20261006_174dd428.csv
+20261014_214135;IGUA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IGUA5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IGUA6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ILMD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ILMD4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IMBI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IMBI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;IMCH3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;INEP3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_INEP3__20261006_0cd3bdbe.csv
+20261014_214135;INEP4;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_INEP4__20261006_7c937541.csv
+20261014_214135;INPR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;INTB3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_INTB3__20261006_36386387.csv
+20261014_214135;ISAE3;;;COM_EVENTOS;LIDO_LOCAL;;1;67;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ISAE3__20261006_5d718b3c.csv
+20261014_214135;ISAE4;;;COM_EVENTOS;LIDO_LOCAL;;1;65;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ISAE4__20261006_d751631d.csv
+20261014_214135;ITEC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ITSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;144;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ITSA3__20261006_e066a5cd.csv
+20261014_214135;ITSA4;;;COM_EVENTOS;LIDO_LOCAL;;1;142;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ITSA4__20261006_61e069e7.csv
+20261014_214135;JALL3;;;COM_EVENTOS;LIDO_LOCAL;;1;6;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_JALL3__20261006_ff6f0b07.csv
+20261014_214135;JBSS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;JFEN3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_JFEN3__20261006_a04f93d5.csv
+20261014_214135;JHSF3;;;COM_EVENTOS;LIDO_LOCAL;;1;62;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_JHSF3__20261006_265cdf62.csv
+20261014_214135;JOPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_JOPA3__20261006_c90ba933.csv
+20261014_214135;JOPA4;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_JOPA4__20261006_ef5d8706.csv
+20261014_214135;JPSA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;JPSA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;JSLG3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_JSLG3__20261006_1acbee89.csv
+20261014_214135;KEPL3;;;COM_EVENTOS;LIDO_LOCAL;;1;27;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_KEPL3__20261006_12497b97.csv
+20261014_214135;KLBN11;;;COM_EVENTOS;LIDO_LOCAL;;1;47;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_KLBN11__20261006_87f742a1.csv
+20261014_214135;KLBN3;;;COM_EVENTOS;LIDO_LOCAL;;1;56;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_KLBN3__20261006_698f4531.csv
+20261014_214135;KLBN4;;;COM_EVENTOS;LIDO_LOCAL;;1;58;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_KLBN4__20261006_2d8d8c0d.csv
+20261014_214135;KROT11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;KROT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;KROT4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;KRSA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LAME3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LAME4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LAND3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LAND3__20261006_e04ec5c4.csv
+20261014_214135;LAVV3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LAVV3__20261006_7137fb64.csv
+20261014_214135;LCAM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LEVE3;;;COM_EVENTOS;LIDO_LOCAL;;1;45;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LEVE3__20261006_20a1b048.csv
+20261014_214135;LEVE4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LFFE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LFFE4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LHER4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LIGT3;;;COM_EVENTOS;LIDO_LOCAL;;1;18;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LIGT3__20261006_5c2e201f.csv
+20261014_214135;LINX3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LIQO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LIXC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LIXC4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LJQQ3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LJQQ3__20261006_53123975.csv
+20261014_214135;LLIS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LLXL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LOGG3;;;COM_EVENTOS;LIDO_LOCAL;;1;14;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LOGG3__20261006_33d86e4b.csv
+20261014_214135;LOGN3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LOGN3__20261006_77490de8.csv
+20261014_214135;LPSB3;;;COM_EVENTOS;LIDO_LOCAL;;1;12;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LPSB3__20261006_75702108.csv
+20261014_214135;LREN3;;;COM_EVENTOS;LIDO_LOCAL;;1;79;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LREN3__20261006_4432a3a5.csv
+20261014_214135;LUPA3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LUPA3__20261006_642daec7.csv
+20261014_214135;LUXM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;LUXM4;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LUXM4__20261006_9fbc83d6.csv
+20261014_214135;LWSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;6;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_LWSA3__20261006_f22629d4.csv
+20261014_214135;MAGG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MAPT3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MAPT3__20261006_642daec7.csv
+20261014_214135;MAPT4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MAPT4__20261006_642daec7.csv
+20261014_214135;MATD3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MATD3__20261006_cf37d9e8.csv
+20261014_214135;MBLY3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MBRF3;;;COM_EVENTOS;LIDO_LOCAL;;1;11;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MBRF3__20261006_a9e3a44b.csv
+20261014_214135;MDIA3;;;COM_EVENTOS;LIDO_LOCAL;;1;56;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MDIA3__20261006_f5a4face.csv
+20261014_214135;MDNE3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MDNE3__20261006_8f013dde.csv
+20261014_214135;MEAL3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MEAL3__20261006_9cbaeda8.csv
+20261014_214135;MEGA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MELK3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MELK3__20261006_36d1dff0.csv
+20261014_214135;MEND5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MEND6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MGEL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MGEL4;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MGEL4__20261006_a80d53b7.csv
+20261014_214135;MGLU3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MGLU3__20261006_ac1c1d2d.csv
+20261014_214135;MILS3;;;COM_EVENTOS;LIDO_LOCAL;;1;32;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MILS3__20261006_302ac106.csv
+20261014_214135;MLAS3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MLAS3__20261006_7bbbb24c.csv
+20261014_214135;MMAQ3;;;COM_EVENTOS;LIDO_LOCAL;;1;25;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MMAQ3__20261006_e5ff4adb.csv
+20261014_214135;MMAQ4;;;COM_EVENTOS;LIDO_LOCAL;;1;19;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MMAQ4__20261006_f3881907.csv
+20261014_214135;MMXM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MNDL3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MNDL3__20261006_de87609f.csv
+20261014_214135;MNDL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MNPR3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MNPR3__20261006_694b8642.csv
+20261014_214135;MOSI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MOTV3;;;COM_EVENTOS;LIDO_LOCAL;;1;39;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MOTV3__20261006_21e92650.csv
+20261014_214135;MOVI3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MOVI3__20261006_827735bf.csv
+20261014_214135;MPLU3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MPXE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MRFG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MRSL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MRSL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MRVE3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MRVE3__20261006_39898c12.csv
+20261014_214135;MSPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MSPA3__20261006_123030c7.csv
+20261014_214135;MSPA4;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MSPA4__20261006_ba350152.csv
+20261014_214135;MTIG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MTIG4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;MTRE3;;;COM_EVENTOS;LIDO_LOCAL;;1;37;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MTRE3__20261006_e3fcba3e.csv
+20261014_214135;MTSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;42;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MTSA3__20261006_1b9df9da.csv
+20261014_214135;MTSA4;;;COM_EVENTOS;LIDO_LOCAL;;1;38;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MTSA4__20261006_9d50f923.csv
+20261014_214135;MULT3;;;COM_EVENTOS;LIDO_LOCAL;;1;45;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MULT3__20261006_761c217f.csv
+20261014_214135;MWET3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MWET3__20261006_642daec7.csv
+20261014_214135;MWET4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MWET4__20261006_642daec7.csv
+20261014_214135;MYPK3;;;COM_EVENTOS;LIDO_LOCAL;;1;28;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_MYPK3__20261006_0f8969da.csv
+20261014_214135;NAFG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NAFG4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NATU3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_NATU3__20261006_c32c4584.csv
+20261014_214135;NEOE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NETC3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NETC4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NEXP3;;;COM_EVENTOS;LIDO_LOCAL;;1;7;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_NEXP3__20261006_8b60f36e.csv
+20261014_214135;NGRD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NINJ3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NORD3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_NORD3__20261006_642daec7.csv
+20261014_214135;NTCO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;NUTR3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_NUTR3__20261006_642daec7.csv
+20261014_214135;ODER4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ODER4__20261006_642daec7.csv
+20261014_214135;ODPV3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;OFSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_OFSA3__20261006_329a5456.csv
+20261014_214135;OGXP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;OHLB3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;OIBR3;;;COM_EVENTOS;LIDO_LOCAL;;1;7;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_OIBR3__20261006_1044e190.csv
+20261014_214135;OIBR4;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_OIBR4__20261006_f2304c4a.csv
+20261014_214135;OMGE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;ONCO3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ONCO3__20261006_642daec7.csv
+20261014_214135;OPCT3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_OPCT3__20261006_d6fbc4a1.csv
+20261014_214135;ORVR3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ORVR3__20261006_642daec7.csv
+20261014_214135;OSXB3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_OSXB3__20261006_642daec7.csv
+20261014_214135;PARD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PASS3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PASS3__20261006_642daec7.csv
+20261014_214135;PATI3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PATI3__20261006_986357be.csv
+20261014_214135;PATI4;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PATI4__20261006_d8688233.csv
+20261014_214135;PCAR3;;;COM_EVENTOS;LIDO_LOCAL;;1;39;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PCAR3__20261006_2ffcafa1.csv
+20261014_214135;PCAR4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PCAR5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PDGR3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PDGR3__20261006_f3de7492.csv
+20261014_214135;PDTC3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PDTC3__20261006_479584c8.csv
+20261014_214135;PEAB3;;;COM_EVENTOS;LIDO_LOCAL;;1;30;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PEAB3__20261006_bf5cce60.csv
+20261014_214135;PEAB4;;;COM_EVENTOS;LIDO_LOCAL;;1;26;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PEAB4__20261006_db3f54d7.csv
+20261014_214135;PETR3;;;COM_EVENTOS;LIDO_LOCAL;;1;51;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PETR3__20261006_400229a0.csv
+20261014_214135;PETR4;;;COM_EVENTOS;LIDO_LOCAL;;1;62;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PETR4__20261006_65a940e2.csv
+20261014_214135;PETZ3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PFRM3;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PFRM3__20261006_3e8b7607.csv
+20261014_214135;PGMN3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PGMN3__20261006_e6c8b875.csv
+20261014_214135;PLAS3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PLAS3__20261006_bff65cc5.csv
+20261014_214135;PLPL3;;;COM_EVENTOS;LIDO_LOCAL;;1;6;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PLPL3__20261006_f66125ee.csv
+20261014_214135;PMAM3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PMAM3__20261006_903d6777.csv
+20261014_214135;PMET5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PMET6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PNOR5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PNOR6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PNVL3;;;COM_EVENTOS;LIDO_LOCAL;;1;47;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PNVL3__20261006_d5b165c1.csv
+20261014_214135;PNVL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;POMO3;;;COM_EVENTOS;LIDO_LOCAL;;1;51;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_POMO3__20261006_c13064da.csv
+20261014_214135;POMO4;;;COM_EVENTOS;LIDO_LOCAL;;1;48;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_POMO4__20261006_594ca46a.csv
+20261014_214135;PORT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;POSI3;;;COM_EVENTOS;LIDO_LOCAL;;1;16;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_POSI3__20261006_8cbc8591.csv
+20261014_214135;POWE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PRIO3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PRIO3__20261006_1c033d1b.csv
+20261014_214135;PRML3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PRNR3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PRNR3__20261006_8bbd368b.csv
+20261014_214135;PRTX3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PRVI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PTBL3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_PTBL3__20261006_50fb8954.csv
+20261014_214135;PTNT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PTNT4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PTPA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;PTPA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;QGEP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;QUAL3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_QUAL3__20261006_699b6bcf.csv
+20261014_214135;RADL3;;;COM_EVENTOS;LIDO_LOCAL;;1;83;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RADL3__20261006_60cfaa77.csv
+20261014_214135;RAIA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RAIL3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RAIL3__20261006_2d5dac5a.csv
+20261014_214135;RAIZ4;;;COM_EVENTOS;LIDO_LOCAL;;1;10;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RAIZ4__20261006_c2407b1e.csv
+20261014_214135;RANI3;;;COM_EVENTOS;LIDO_LOCAL;;1;48;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RANI3__20261006_640908f0.csv
+20261014_214135;RANI4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RAPT3;;;COM_EVENTOS;LIDO_LOCAL;;1;39;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RAPT3__20261006_c365e030.csv
+20261014_214135;RAPT4;;;COM_EVENTOS;LIDO_LOCAL;;1;33;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RAPT4__20261006_5d9720fd.csv
+20261014_214135;RCSL3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RCSL3__20261006_642daec7.csv
+20261014_214135;RCSL4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RCSL4__20261006_642daec7.csv
+20261014_214135;RDCD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RDNI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RDOR3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RDOR3__20261006_1328bee2.csv
+20261014_214135;RECV3;;;COM_EVENTOS;LIDO_LOCAL;;1;11;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RECV3__20261006_8b931fe2.csv
+20261014_214135;REDE3;;;COM_EVENTOS;LIDO_LOCAL;;1;27;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_REDE3__20261006_0e058f90.csv
+20261014_214135;REDE4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;REEM4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RENT3;;;COM_EVENTOS;LIDO_LOCAL;;1;88;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RENT3__20261006_072ab627.csv
+20261014_214135;RENT4;;;COM_EVENTOS;LIDO_LOCAL;;1;3;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RENT4__20261006_75841a6b.csv
+20261014_214135;RHDS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RIAA3;;;COM_EVENTOS;LIDO_LOCAL;;1;44;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RIAA3__20261006_44c5dafd.csv
+20261014_214135;RIOS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RLOG3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RNEW11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RNEW3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RNEW3__20261006_c39ac4bd.csv
+20261014_214135;RNEW4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RNEW4__20261006_642daec7.csv
+20261014_214135;ROMI3;;;COM_EVENTOS;LIDO_LOCAL;;1;51;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_ROMI3__20261006_a75499ca.csv
+20261014_214135;RPMG3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RPMG3__20261006_642daec7.csv
+20261014_214135;RPMG4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RRRP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RSID3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RSID3__20261006_f1f8601d.csv
+20261014_214135;RSIP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RSIP4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RSUL4;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RSUL4__20261006_4190fdca.csv
+20261014_214135;RUMO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;RVEE3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_RVEE3__20261006_642daec7.csv
+20261014_214135;SAPR11;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SAPR11__20261006_5389ac19.csv
+20261014_214135;SAPR3;;;COM_EVENTOS;LIDO_LOCAL;;1;37;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SAPR3__20261006_2a6ccdc5.csv
+20261014_214135;SAPR4;;;COM_EVENTOS;LIDO_LOCAL;;1;38;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SAPR4__20261006_a6b3d6f9.csv
+20261014_214135;SAUD3;;;COM_EVENTOS;LIDO_LOCAL;;1;104;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SAUD3__20261006_27b2fa03.csv
+20261014_214135;SBFG3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SBFG3__20261006_636de9d9.csv
+20261014_214135;SBSP3;;;COM_EVENTOS;LIDO_LOCAL;;1;25;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SBSP3__20261006_e142ec13.csv
+20261014_214135;SCAR3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SCAR3__20261006_92b1779e.csv
+20261014_214135;SCLO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SCLO4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SEDU3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SEER3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SEER3__20261006_b5a953f4.csv
+20261014_214135;SEQL3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SEQL3__20261006_642daec7.csv
+20261014_214135;SGAS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SGAS4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SGEN3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SGEN4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SGPS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SHOW3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SHOW3__20261006_078cc2ed.csv
+20261014_214135;SHUL3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SHUL3__20261006_642daec7.csv
+20261014_214135;SHUL4;;;COM_EVENTOS;LIDO_LOCAL;;1;47;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SHUL4__20261006_4f5bf019.csv
+20261014_214135;SIMH3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SIMH3__20261006_718a3078.csv
+20261014_214135;SJOS4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SLCE3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SLCE3__20261006_3ce422af.csv
+20261014_214135;SLED3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SLED4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SMFT3;;;COM_EVENTOS;LIDO_LOCAL;;1;11;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SMFT3__20261006_acb3ef8e.csv
+20261014_214135;SMLE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SMLS3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SMTO3;;;COM_EVENTOS;LIDO_LOCAL;;1;27;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SMTO3__20261006_c468af9b.csv
+20261014_214135;SNSL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SNSY3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SNSY3__20261006_642daec7.csv
+20261014_214135;SNSY5;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SNSY5__20261006_642daec7.csv
+20261014_214135;SNSY6;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SNSY6__20261006_642daec7.csv
+20261014_214135;SOJA3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SOJA3__20261006_3a97b35e.csv
+20261014_214135;SOMA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SOND3;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SOND3__20261006_bc3161e5.csv
+20261014_214135;SOND5;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SOND5__20261006_40ce52d5.csv
+20261014_214135;SOND6;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SOND6__20261006_1315fd7f.csv
+20261014_214135;SPRI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SPRI5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SPRI6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SQIA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SRNA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SSBR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;STBP11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;STBP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SULT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SULT4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SUZB3;;;COM_EVENTOS;LIDO_LOCAL;;1;22;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SUZB3__20261006_6d622fa3.csv
+20261014_214135;SUZB5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SUZB6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;SYNE3;;;COM_EVENTOS;LIDO_LOCAL;;1;20;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_SYNE3__20261006_024aaaf7.csv
+20261014_214135;TAEE11;;;COM_EVENTOS;LIDO_LOCAL;;1;60;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TAEE11__20261006_cc21ead6.csv
+20261014_214135;TAEE3;;;COM_EVENTOS;LIDO_LOCAL;;1;57;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TAEE3__20261006_fcd0bca6.csv
+20261014_214135;TAEE4;;;COM_EVENTOS;LIDO_LOCAL;;1;41;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TAEE4__20261006_7d0cceec.csv
+20261014_214135;TAMM3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TAMM4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TASA3;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TASA3__20261006_2fa689fa.csv
+20261014_214135;TASA4;;;COM_EVENTOS;LIDO_LOCAL;;1;15;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TASA4__20261006_198aeb2b.csv
+20261014_214135;TBLE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TCNO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TCNO4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TCSA3;;;COM_EVENTOS;LIDO_LOCAL;;1;8;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TCSA3__20261006_25638dca.csv
+20261014_214135;TCSL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TCSL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TECN3;;;COM_EVENTOS;LIDO_LOCAL;;1;12;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TECN3__20261006_716320c9.csv
+20261014_214135;TEKA3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TEKA3__20261006_642daec7.csv
+20261014_214135;TEKA4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TEKA4__20261006_642daec7.csv
+20261014_214135;TELB3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TELB3__20261006_642daec7.csv
+20261014_214135;TELB4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TELB4__20261006_642daec7.csv
+20261014_214135;TEMP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TEND3;;;COM_EVENTOS;LIDO_LOCAL;;1;13;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TEND3__20261006_cc69d337.csv
+20261014_214135;TENE5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TENE7;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TERI3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TESA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TFCO4;;;COM_EVENTOS;LIDO_LOCAL;;1;25;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TFCO4__20261006_7c555f8f.csv
+20261014_214135;TGMA3;;;COM_EVENTOS;LIDO_LOCAL;;1;43;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TGMA3__20261006_d180e1c2.csv
+20261014_214135;TIET11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TIET3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TIET4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TIMP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TIMS3;;;COM_EVENTOS;LIDO_LOCAL;;1;46;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TIMS3__20261006_10ec5779.csv
+20261014_214135;TKNO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TKNO4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TLPP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TLPP4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TMAR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TMAR5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TMAR6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TNCP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TNCP4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TNLP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TNLP4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TOKY3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TOKY3__20261006_642daec7.csv
+20261014_214135;TOTS3;;;COM_EVENTOS;LIDO_LOCAL;;1;49;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TOTS3__20261006_cb8cfddb.csv
+20261014_214135;TOYB3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TOYB4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TPIS3;;;COM_EVENTOS;LIDO_LOCAL;;1;18;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TPIS3__20261006_cca56058.csv
+20261014_214135;TRAD3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TRIS3;;;COM_EVENTOS;LIDO_LOCAL;;1;18;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TRIS3__20261006_b44b05ee.csv
+20261014_214135;TRNA11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TRPL3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TRPL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TTEN3;;;COM_EVENTOS;LIDO_LOCAL;;1;5;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TTEN3__20261006_99067866.csv
+20261014_214135;TUPY3;;;COM_EVENTOS;LIDO_LOCAL;;1;32;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TUPY3__20261006_50d4c20b.csv
+20261014_214135;TUPY4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;TXRX3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TXRX3__20261006_642daec7.csv
+20261014_214135;TXRX4;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_TXRX4__20261006_642daec7.csv
+20261014_214135;UCAS3;;;COM_EVENTOS;LIDO_LOCAL;;1;14;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_UCAS3__20261006_65cb3eff.csv
+20261014_214135;UGPA3;;;COM_EVENTOS;LIDO_LOCAL;;1;37;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_UGPA3__20261006_9adf6dcd.csv
+20261014_214135;UGPA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;UNIP3;;;COM_EVENTOS;LIDO_LOCAL;;1;35;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_UNIP3__20261006_799953fc.csv
+20261014_214135;UNIP5;;;COM_EVENTOS;LIDO_LOCAL;;1;28;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_UNIP5__20261006_1b4e02d4.csv
+20261014_214135;UNIP6;;;COM_EVENTOS;LIDO_LOCAL;;1;29;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_UNIP6__20261006_efaceaff.csv
+20261014_214135;UOLL4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;USIM3;;;COM_EVENTOS;LIDO_LOCAL;;1;23;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_USIM3__20261006_f9fc11d3.csv
+20261014_214135;USIM5;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_USIM5__20261006_a8013547.csv
+20261014_214135;USIM6;;;COM_EVENTOS;LIDO_LOCAL;;1;17;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_USIM6__20261006_d5badcef.csv
+20261014_214135;VAGR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VALE3;;;COM_EVENTOS;LIDO_LOCAL;;5;39;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VALE3__20261006_271a87d4.csv
+20261014_214135;VALE5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VAMO3;;;COM_EVENTOS;LIDO_LOCAL;;1;6;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VAMO3__20261006_b15e7eff.csv
+20261014_214135;VBBR3;;;COM_EVENTOS;LIDO_LOCAL;;1;24;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VBBR3__20261006_a826236a.csv
+20261014_214135;VIGR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VIIA3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VINE3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VINE5;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VINE6;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VITT3;;;COM_EVENTOS;LIDO_LOCAL;;1;13;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VITT3__20261006_cefb32e5.csv
+20261014_214135;VIVA3;;;COM_EVENTOS;LIDO_LOCAL;;1;9;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VIVA3__20261006_4aa9fd3e.csv
+20261014_214135;VIVO3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VIVO4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VIVR3;;;SEM_EVENTOS;LIDO_LOCAL;;1;0;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VIVR3__20261006_642daec7.csv
+20261014_214135;VIVT3;;;COM_EVENTOS;LIDO_LOCAL;;1;117;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VIVT3__20261006_da08a934.csv
+20261014_214135;VIVT4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VLID3;;;COM_EVENTOS;LIDO_LOCAL;;1;56;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VLID3__20261006_7b54500a.csv
+20261014_214135;VSPT3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VSTE3;;;COM_EVENTOS;LIDO_LOCAL;;1;14;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VSTE3__20261006_698447dc.csv
+20261014_214135;VTRU3;;;COM_EVENTOS;LIDO_LOCAL;;1;2;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VTRU3__20261006_d814f428.csv
+20261014_214135;VULC3;;;COM_EVENTOS;LIDO_LOCAL;;1;35;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VULC3__20261006_74b254cd.csv
+20261014_214135;VVAR11;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VVAR3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VVAR4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;VVEO3;;;COM_EVENTOS;LIDO_LOCAL;;1;4;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_VVEO3__20261006_dc562936.csv
+20261014_214135;WDCN3;;;COM_EVENTOS;LIDO_LOCAL;;1;3;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WDCN3__20261006_486b09bf.csv
+20261014_214135;WEGE3;;;COM_EVENTOS;LIDO_LOCAL;;1;109;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WEGE3__20261006_33d9f159.csv
+20261014_214135;WEST3;;;COM_EVENTOS;LIDO_LOCAL;;1;1;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WEST3__20261006_cbe06750.csv
+20261014_214135;WHRL3;;;COM_EVENTOS;LIDO_LOCAL;;1;33;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WHRL3__20261006_15d6d9d2.csv
+20261014_214135;WHRL4;;;COM_EVENTOS;LIDO_LOCAL;;1;27;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WHRL4__20261006_f6e155ee.csv
+20261014_214135;WLMM3;;;COM_EVENTOS;LIDO_LOCAL;;1;27;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WLMM3__20261006_de2ea8cd.csv
+20261014_214135;WLMM4;;;COM_EVENTOS;LIDO_LOCAL;;1;37;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_WLMM4__20261006_4583d5e6.csv
+20261014_214135;YBRA4;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;
+20261014_214135;YDUQ3;;;COM_EVENTOS;LIDO_LOCAL;;1;21;False;modo local: última versão do manifesto;False;data/raw/yahoo_dividendos/dividendos_YDUQ3__20261006_2cdd73fe.csv
+20261014_214135;ZAMP3;;;TICKER_NAO_ENCONTRADO;TICKER_NAO_ENCONTRADO;;;0;False;"modo local: sem versão no manifesto; status do último log";False;

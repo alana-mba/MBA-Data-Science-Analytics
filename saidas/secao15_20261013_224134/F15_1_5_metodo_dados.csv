@@ -1,0 +1,26 @@
+﻿CAMPO;ROTULO;METODO;QTD_TRIMESTRES;QTD_TOTAL;PCT_TRIMESTRES
+RECEITA_LIQUIDA_TRIMESTRE;Receita líquida;Acumulado de 3 meses (1º trimestre);4869;18851;25,82886849504005
+RECEITA_LIQUIDA_TRIMESTRE;Receita líquida;Trimestre informado na ITR;8563;18851;45,42464590737892
+RECEITA_LIQUIDA_TRIMESTRE;Receita líquida;Diferença entre acumulados;4564;18851;24,210917192721872
+RECEITA_LIQUIDA_TRIMESTRE;Receita líquida;Diferença entre acumulados, por reconciliação;812;18851;4,307463795024137
+RECEITA_LIQUIDA_TRIMESTRE;Receita líquida;Sem base (ausente);43;18851;0,228104609835022
+LUCRO_BRUTO_TRIMESTRE;Lucro bruto;Acumulado de 3 meses (1º trimestre);4869;18851;25,82886849504005
+LUCRO_BRUTO_TRIMESTRE;Lucro bruto;Trimestre informado na ITR;8563;18851;45,42464590737892
+LUCRO_BRUTO_TRIMESTRE;Lucro bruto;Diferença entre acumulados;4564;18851;24,210917192721872
+LUCRO_BRUTO_TRIMESTRE;Lucro bruto;Diferença entre acumulados, por reconciliação;812;18851;4,307463795024137
+LUCRO_BRUTO_TRIMESTRE;Lucro bruto;Sem base (ausente);43;18851;0,228104609835022
+LUCRO_LIQUIDO_TOTAL_TRIMESTRE;Lucro líquido;Acumulado de 3 meses (1º trimestre);4869;18851;25,82886849504005
+LUCRO_LIQUIDO_TOTAL_TRIMESTRE;Lucro líquido;Trimestre informado na ITR;8563;18851;45,42464590737892
+LUCRO_LIQUIDO_TOTAL_TRIMESTRE;Lucro líquido;Diferença entre acumulados;4564;18851;24,210917192721872
+LUCRO_LIQUIDO_TOTAL_TRIMESTRE;Lucro líquido;Diferença entre acumulados, por reconciliação;812;18851;4,307463795024137
+LUCRO_LIQUIDO_TOTAL_TRIMESTRE;Lucro líquido;Sem base (ausente);43;18851;0,228104609835022
+AUD_LUCRO_CONTROLADORA_3_11_01_TRIMESTRE;Lucro dos controladores;Acumulado de 3 meses (1º trimestre);3851;18851;20,42862447615511
+AUD_LUCRO_CONTROLADORA_3_11_01_TRIMESTRE;Lucro dos controladores;Trimestre informado na ITR;6745;18851;35,78059519388892
+AUD_LUCRO_CONTROLADORA_3_11_01_TRIMESTRE;Lucro dos controladores;Diferença entre acumulados;3608;18851;19,139568192668825
+AUD_LUCRO_CONTROLADORA_3_11_01_TRIMESTRE;Lucro dos controladores;Diferença entre acumulados, por reconciliação;649;18851;3,4427881809983556
+AUD_LUCRO_CONTROLADORA_3_11_01_TRIMESTRE;Lucro dos controladores;Sem base (ausente);3998;18851;21,20842395628879
+CAIXA_OPERACIONAL_TRIMESTRE;Caixa operacional;Acumulado de 3 meses (1º trimestre);4869;18851;25,82886849504005
+CAIXA_OPERACIONAL_TRIMESTRE;Caixa operacional;Trimestre informado na ITR;0;18851;0,0
+CAIXA_OPERACIONAL_TRIMESTRE;Caixa operacional;Diferença entre acumulados;13927;18851;73,87936979470585
+CAIXA_OPERACIONAL_TRIMESTRE;Caixa operacional;Diferença entre acumulados, por reconciliação;0;18851;0,0
+CAIXA_OPERACIONAL_TRIMESTRE;Caixa operacional;Sem base (ausente);55;18851;0,2917617102540979
